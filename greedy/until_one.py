@@ -6,7 +6,7 @@ while True:
         n //= k
         result += 1
     else:
-        dif = n - (int(n / k) * k)
+        dif = n - n // k * k
         n -= dif
         result += dif
 
