@@ -1,7 +1,7 @@
 input_data = list(input())
 input_data.sort()
 
-string = ''
+string = ""
 number = 0
 
 for i in range(len(input_data)):
@@ -12,4 +12,4 @@ for i in range(len(input_data)):
         string += x
 
 
-print(string+str(number))
+print(string + str(number))

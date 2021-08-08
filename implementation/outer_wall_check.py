@@ -2,11 +2,13 @@
 # 아직 못품
 from itertools import combinations
 
+
 def distance(weaks, n):
     max_weak_point = max(weaks)
     min_weak_point = min(weaks)
     difference = max_weak_point - min_weak_point
     return min(difference, n - difference)
+
 
 def isCovered(weaks, dist):
     weaks.sort()
@@ -23,8 +25,9 @@ def isCovered(weaks, dist):
         if temp >= weaks[-1]:
             temp = 0
             weaks.pop()
-    
+
     return -1 if weaks else count
+
 
 def solution(n, weak, dist):
     print(list(combinations(weak, 2)))
@@ -34,6 +37,6 @@ def solution(n, weak, dist):
 
 
 n = 12
-weak = [1,5,6,10]
-dist = [1,2,3,4]
-print(solution(n,weak,dist))
+weak = [1, 5, 6, 10]
+dist = [1, 2, 3, 4]
+print(solution(n, weak, dist))

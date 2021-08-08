@@ -7,9 +7,9 @@ demands = list(map(int, input().split()))
 
 def findComponent(item):
     if item in components:
-        return 'yes'
+        return "yes"
     else:
-        return 'no'
+        return "no"
 
 
 for item in demands:

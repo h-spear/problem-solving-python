@@ -3,7 +3,8 @@ from itertools import product
 from itertools import permutations
 from itertools import combinations
 from itertools import combinations_with_replacement
-data = ['A', 'B', 'C']
+
+data = ["A", "B", "C"]
 
 # permutations(p[,r]) : 순열
 # P개 중 n개를 선택하여 만든 순열. tuple

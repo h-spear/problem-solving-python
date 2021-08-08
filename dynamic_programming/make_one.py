@@ -1,6 +1,6 @@
 x = int(input())
 
-array = [30001] * (x+1)
+array = [30001] * (x + 1)
 array[x] = 0
 
 for i in range(x, 0, -1):

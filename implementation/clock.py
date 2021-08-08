@@ -10,7 +10,7 @@ def hasThree(num):
 
 
 result = 0
-for h in range(0, N+1):
+for h in range(0, N + 1):
     for m in range(0, 60):
         for s in range(0, 60):
             if hasThree(h) or hasThree(m) or hasThree(s):

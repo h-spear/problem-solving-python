@@ -1,5 +1,6 @@
 import heapq
 
+
 def min_heap_sort(A):
     result = []
 
@@ -9,6 +10,7 @@ def min_heap_sort(A):
     for _ in range(len(A)):
         result.append(heapq.heappop(A))
     return result
+
 
 # def max_heap_sort(A):
 #     h = []

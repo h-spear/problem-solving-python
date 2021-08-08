@@ -3,8 +3,8 @@ import numpy as np
 
 
 def rotate_matrix_90(A):
-    n = len(A)      # length of row
-    m = len(A[0])   # length of column
+    n = len(A)  # length of row
+    m = len(A[0])  # length of column
     result = [[0] * n for _ in range(m)]
     for i in range(n):
         for j in range(m):
@@ -13,8 +13,8 @@ def rotate_matrix_90(A):
 
 
 def rotate_matrix_180(A):
-    n = len(A)      # length of row
-    m = len(A[0])   # length of column
+    n = len(A)  # length of row
+    m = len(A[0])  # length of column
     result = [[0] * m for _ in range(n)]
     for i in range(n):
         for j in range(m):
@@ -23,8 +23,8 @@ def rotate_matrix_180(A):
 
 
 def rotate_matrix_270(A):
-    n = len(A)      # length of row
-    m = len(A[0])   # length of column
+    n = len(A)  # length of row
+    m = len(A[0])  # length of column
     result = [[0] * n for _ in range(m)]
     for i in range(n):
         for j in range(m):

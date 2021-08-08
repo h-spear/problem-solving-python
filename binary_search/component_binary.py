@@ -11,15 +11,15 @@ components.sort()
 
 def findComponent(item, left, right):
     if left > right:
-        return 'no'
+        return "no"
 
-    mid = (left+right) // 2
+    mid = (left + right) // 2
     if components[mid] == item:
-        return 'yes'
+        return "yes"
     elif components[mid] > item:
         return findComponent(item, left, mid - 1)
     else:
-        return findComponent(item, mid+1, right)
+        return findComponent(item, mid + 1, right)
 
 
 for item in demands:

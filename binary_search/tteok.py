@@ -6,7 +6,7 @@ left = 0
 right = max(array)
 
 result = 0
-while(left <= right):
+while left <= right:
     total = 0
     mid = (left + right) // 2
     for x in array:

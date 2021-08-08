@@ -11,9 +11,9 @@ demands = list(map(int, input().split()))
 
 def findComponent(index):
     if components[index] == 1:
-        return 'yes'
+        return "yes"
     else:
-        return 'no'
+        return "no"
 
 
 for item in demands:

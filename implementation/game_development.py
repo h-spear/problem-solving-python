@@ -8,11 +8,11 @@ for _ in range(0, m):
 
 
 def rotate_left(d):
-    return (d+3) % 4
+    return (d + 3) % 4
 
 
 def direction_back(d):
-    return (d+2) % 4
+    return (d + 2) % 4
 
 
 def isField(r, c):

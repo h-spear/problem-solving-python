@@ -25,11 +25,11 @@
 # sol 2
 import sys
 
-input_data = sys.stdin.readline().rstrip().split('-')
+input_data = sys.stdin.readline().rstrip().split("-")
 
 partial_sum = []
 for x in input_data:
-    item = sum(map(int, x.split('+')))
+    item = sum(map(int, x.split("+")))
     partial_sum.append(item)
 
 result = partial_sum[0]
