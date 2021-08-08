@@ -1,6 +1,6 @@
 n = int(input())
 adventures = list(map(int, input().split()))
-sort()
+adventures.sort()
 
 result = 0
 user_count = 0
