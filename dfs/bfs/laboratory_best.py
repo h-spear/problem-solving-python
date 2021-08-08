@@ -17,8 +17,8 @@ result = 0
 
 def virus(x, y):
     for i in range(4):
-        nx = x+dx[i]
-        ny = y+dy[i]
+        nx = x + dx[i]
+        ny = y + dy[i]
         if nx >= 0 and nx < n and ny >= 0 and ny < m:
             if temp[nx][ny] == 0:
                 temp[nx][ny] = 2

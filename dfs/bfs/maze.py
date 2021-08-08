@@ -9,12 +9,7 @@ visited = [[0] * m for _ in range(n)]
 
 
 # up down left right
-direction = [
-    (-1, 0),
-    (1, 0),
-    (0, -1),
-    (0, 1)
-]
+direction = [(-1, 0), (1, 0), (0, -1), (0, 1)]
 
 
 def bfs(r, c):
@@ -31,7 +26,7 @@ def bfs(r, c):
                     visited[nr][nc] = visited[v[0]][v[1]] + 1
                     queue.append((nr, nc))
 
-    return visited[n-1][m-1]
+    return visited[n - 1][m - 1]
 
 
 print(bfs(0, 0))

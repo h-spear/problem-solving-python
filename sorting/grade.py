@@ -9,4 +9,4 @@ for _ in range(n):
 grade = sorted(grade, key=lambda student: student[1])
 
 for student in grade:
-    print(student[0], end=' ')
+    print(student[0], end=" ")

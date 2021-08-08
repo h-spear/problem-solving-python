@@ -34,9 +34,9 @@ while q:
         nr = r + dr[i]
         nc = c + dc[i]
 
-        if nr >= 0 and nr < n and nc >=0 and nc < n:
+        if nr >= 0 and nr < n and nc >= 0 and nc < n:
             if graph[nr][nc] == 0:
                 graph[nr][nc] = v
-                q.append((v,sec+1,nr,nc))
+                q.append((v, sec + 1, nr, nc))
 
-print(graph[x-1][y-1])
+print(graph[x - 1][y - 1])
