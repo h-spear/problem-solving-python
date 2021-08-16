@@ -1,7 +1,7 @@
 # https://programmers.co.kr/learn/courses/30/lessons/60062
 # 아직 못품
-from itertools import combinations
 
+from itertools import combinations
 
 def distance(weaks, n):
     max_weak_point = max(weaks)

@@ -1,6 +1,3 @@
-from typing_extensions import ParamSpec
-
-
 def find(parent, x):
     if parent[x] != x:
         parent[x] = find(parent, parent[x])
