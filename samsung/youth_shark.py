@@ -26,7 +26,8 @@ def findFish(graph, num):
                 return i, j
     return None
 
-def fishMove(graph,now_x,now_y):
+
+def fishMove(graph, now_x, now_y):
     for j in range(1, 17):
         fish = findFish(graph, j)
         if fish == None:
@@ -37,16 +38,10 @@ def fishMove(graph,now_x,now_y):
             nx = x + dx[dir]
             ny = y + dy[dir]
 
-            if (
-                nx >= 0
-                and nx < 4
-                and ny >= 0
-                and ny < 4
-                and graph[nx][ny][0] != -1
-            ):
-              if not (nx == now_x and ny == now_y):
-                graph[nx][ny], graph[x][y] = graph[x][y], graph[nx][ny]
-                break
+            if nx >= 0 and nx < 4 and ny >= 0 and ny < 4 and graph[nx][ny][0] != -1:
+                if not (nx == now_x and ny == now_y):
+                    graph[nx][ny], graph[x][y] = graph[x][y], graph[nx][ny]
+                    break
             dir = turnLeft(dir)
     return graph
 
@@ -64,22 +59,22 @@ def possiblePath(shark_x, shark_y, shark_dir):
 
 result = 0
 
+
 def dfs(graph, x, y, sum):
     global result
     graph = copy.deepcopy(graph)
     sum += graph[x][y][0]
     graph[x][y][0] = -1
     direction = graph[x][y][1]
-    fishMove(graph,x,y)
+    fishMove(graph, x, y)
 
-    path = possiblePath(x,y,direction)
+    path = possiblePath(x, y, direction)
     if len(path) == 0:
-      result = max(result, sum)
-      return 
+        result = max(result, sum)
+        return
     for next_x, next_y in path:
-      dfs(graph,next_x,next_y,sum)
+        dfs(graph, next_x, next_y, sum)
 
 
-
-dfs(graph, 0,0,0)
+dfs(graph, 0, 0, 0)
 print(result)

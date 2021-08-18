@@ -3,6 +3,7 @@
 
 from itertools import combinations
 
+
 def distance(weaks, n):
     max_weak_point = max(weaks)
     min_weak_point = min(weaks)
