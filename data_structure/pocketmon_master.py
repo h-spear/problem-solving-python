@@ -1,6 +1,7 @@
 # https://www.acmicpc.net/problem/1620
 
 import sys
+
 input = sys.stdin.readline
 
 n, m = map(int, input().rstrip().split())
@@ -10,14 +11,14 @@ n, m = map(int, input().rstrip().split())
 pocketmon_num = dict()
 pocketmon_name = dict()
 
-for i in range(1,n+1):
-  name = input().rstrip()
-  pocketmon_num[i] = name
-  pocketmon_name[name ] =  i
+for i in range(1, n + 1):
+    name = input().rstrip()
+    pocketmon_num[i] = name
+    pocketmon_name[name] = i
 
 for _ in range(m):
-  cmd = input().rstrip()
-  if cmd.isdigit():
-    print(pocketmon_num[int(cmd)])
-  else:
-    print(pocketmon_name[cmd])
+    cmd = input().rstrip()
+    if cmd.isdigit():
+        print(pocketmon_num[int(cmd)])
+    else:
+        print(pocketmon_name[cmd])
