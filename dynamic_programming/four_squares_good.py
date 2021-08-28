@@ -4,21 +4,22 @@
 # i, j, k for문의 범위를 줄여 시간 통과
 
 import math
+
 n = int(input())
 result = 4
-for i in range(int(math.sqrt(n)), int(math.sqrt(n//4)),-1):
-  if i*i == n:
-    result = 1
-    break
-  else:
-    tmp = n - i *i
-    for j in range(int(math.sqrt(tmp)), int(math.sqrt(tmp//3)), -1):
-      if i*i + j*j == n:
-        result = min(result, 2)
-        continue
-      else:
-        tmp = n - i*i - j*j
-        for k in range(int(math.sqrt(tmp)),int(math.sqrt(tmp//2)),-1):
-          if i*i + j*j + k*k == n:
-            result = min(result, 3)
+for i in range(int(math.sqrt(n)), int(math.sqrt(n // 4)), -1):
+    if i * i == n:
+        result = 1
+        break
+    else:
+        tmp = n - i * i
+        for j in range(int(math.sqrt(tmp)), int(math.sqrt(tmp // 3)), -1):
+            if i * i + j * j == n:
+                result = min(result, 2)
+                continue
+            else:
+                tmp = n - i * i - j * j
+                for k in range(int(math.sqrt(tmp)), int(math.sqrt(tmp // 2)), -1):
+                    if i * i + j * j + k * k == n:
+                        result = min(result, 3)
 print(result)
