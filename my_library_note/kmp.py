@@ -1,5 +1,5 @@
-string = "abacdabacaabacaaba"
-pattern = "abacaaba"
+string = "OOIOIOIOIIOII"
+pattern = "IOI"
 
 
 def make_table(s):
@@ -19,6 +19,7 @@ def make_table(s):
 
 def KMP(s, p):
     table = make_table(s)
+    print(table)
 
     j = 0
     for i in range(len(s)):
