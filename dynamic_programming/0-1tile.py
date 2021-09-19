@@ -1,4 +1,4 @@
-# 1904
+# https://www.acmicpc.net/problem/1904
 
 n = int(input())
 dp = [0] * 100
