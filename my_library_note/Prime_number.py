@@ -5,7 +5,7 @@ from collections import Counter
 # O(N)
 
 
-def is_prime_number_1(N):
+def is_prime_number_1(x):
     for i in range(2, x):
         if x % i == 0:
             return False
@@ -13,7 +13,7 @@ def is_prime_number_1(N):
 
 
 # O(N^(1/2))
-def is_prime_number_2(N):
+def is_prime_number_2(x):
     # 2 ~ x의 제곱끈까지의 모든 수
     for i in range(2, int(math.sqrt(x)) + 1):
         if x % i == 0:
@@ -21,7 +21,7 @@ def is_prime_number_2(N):
     return True
 
 
-# 에라토스테네스의 체 O(NloglogN)
+# 에라토스테네스의 체 O(NlogN)
 # 여러 개의 소수를 판별해야 할 때 효율적
 # 메모리가 많이 필요하다는 단점.
 def find_prime_numbers(start, end):
@@ -47,4 +47,4 @@ def find_prime_numbers(start, end):
     print(Counter(A[start : end + 1])[True])  # Collections.Counter 이용
 
 
-find_prime_numbers(850, 1000)
+find_prime_numbers(1000, 10000)
