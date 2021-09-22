@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/problem/1520
+# https://www.acmicpc.net/problem/14891
 
 from collections import deque
 from copy import deepcopy
