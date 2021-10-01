@@ -9,7 +9,7 @@ class Solution:
         answer = 0
         while len(nums) >= 2:
             nums.pop()
-            answer += nums풀이op()
+            answer += nums.pop()
         return answer
 
     # 611ms
