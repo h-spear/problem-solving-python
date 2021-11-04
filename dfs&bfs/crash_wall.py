@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/2206
+
 import sys
 from collections import deque
 
