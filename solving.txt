@@ -1,0 +1,53 @@
+브론즈/실버 난이도
+
+https://www.acmicpc.net/problem/3048 x
+
+골드 난이도
+
+https://www.acmicpc.net/problem/14500
+https://www.acmicpc.net/problem/14890
+https://www.acmicpc.net/problem/17837
+https://www.acmicpc.net/problem/15683
+https://www.acmicpc.net/problem/17144
+https://www.acmicpc.net/problem/15685
+https://www.acmicpc.net/problem/14499
+https://www.acmicpc.net/problem/14891
+https://www.acmicpc.net/problem/15686
+https://www.acmicpc.net/problem/2563
+https://www.acmicpc.net/problem/15686
+https://www.acmicpc.net/problem/14503
+https://www.acmicpc.net/problem/16235
+https://www.acmicpc.net/problem/16236
+
+[ 브루트포스 문제 추천 ]
+https://www.acmicpc.net/problem/1527
+https://www.acmicpc.net/problem/16943
+https://www.acmicpc.net/problem/1051
+
+[ 자료구조 문제 추천 ]
+https://www.acmicpc.net/problem/1021
+https://www.acmicpc.net/problem/11866
+https://www.acmicpc.net/problem/3190
+https://programmers.co.kr/learn/courses/30/lessons/42583
+https://programmers.co.kr/learn/courses/30/lessons/42746
+https://programmers.co.kr/learn/courses/30/lessons/42587
+
+
+[ 그래프(넓이 우선 탐색, BFS/ 깊이 우선 탐색, DFS) 문제 추천 ]
+골드 난이도
+https://www.acmicpc.net/problem/13460
+
+[ 백트래킹 문제 추천 ]
+https://www.acmicpc.net/problem/14888
+https://www.acmicpc.net/problem/9663
+https://www.acmicpc.net/problem/14889
+https://www.acmicpc.net/problem/2580
+https://www.acmicpc.net/problem/12100
+https://www.acmicpc.net/problem/1062
+
+[ 동적 계획법(다이나믹 프로그래밍) 문제 추천 ]
+https://www.acmicpc.net/problem/9095
+https://www.acmicpc.net/problem/1932
+https://www.acmicpc.net/problem/1890
+https://www.acmicpc.net/problem/2293
+https://www.acmicpc.net/problem/14501
