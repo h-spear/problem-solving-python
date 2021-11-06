@@ -6,14 +6,8 @@ https://www.acmicpc.net/problem/3048 x
 
 https://www.acmicpc.net/problem/14890
 https://www.acmicpc.net/problem/17837
-https://www.acmicpc.net/problem/15683
-https://www.acmicpc.net/problem/17144
 https://www.acmicpc.net/problem/15685
-https://www.acmicpc.net/problem/14499
 https://www.acmicpc.net/problem/16235
-
-[ 브루트포스 문제 추천 ]
-https://www.acmicpc.net/problem/1527
 
 [ 자료구조 문제 추천 ]
 https://www.acmicpc.net/problem/1021
