@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/1062
+
 from itertools import combinations
 
 n, k = map(int, input().split())
