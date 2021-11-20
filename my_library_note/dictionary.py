@@ -18,7 +18,6 @@ print(dict2)
 # 가장 빈도가 높은 n개의 요소(key, value) 추출
 print(dict2.most_common(1))
 
-
 # 파이썬 3.6 이전
 dict3 = OrderedDict({"banana": 3, "apple": 4, "pear": 1, "orange": 2})
 print(dict3)  # 입력 순서가 유지되는 dictionary
