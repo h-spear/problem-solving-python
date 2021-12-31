@@ -3,8 +3,6 @@ import math
 from collections import Counter
 
 # O(N)
-
-
 def is_prime_number_1(x):
     for i in range(2, x):
         if x % i == 0:
@@ -14,7 +12,7 @@ def is_prime_number_1(x):
 
 # O(N^(1/2))
 def is_prime_number_2(x):
-    # 2 ~ x의 제곱끈까지의 모든 수
+    # 2 ~ x의 제곱근까지의 모든 수
     for i in range(2, int(math.sqrt(x)) + 1):
         if x % i == 0:
             return False

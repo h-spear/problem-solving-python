@@ -5,6 +5,7 @@ import sys
 
 mx = sys.maxsize
 mn = -sys.maxsize
+print(sys.maxsize)  # 2^63 - 1
 
 # 방법2
 mx = float("inf")
