@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/21938
+
 import sys
 from collections import deque
 
@@ -29,12 +31,13 @@ def bfs(x, y):
 
             if nx < 0 or ny < 0 or nx >= n or ny >= m:
                 continue
-            if visited[x][y]:
+            if visited[nx][ny]:
                 continue
-            if graph[x][y] == 0:
+            if processed[nx][ny] == 0:
                 continue
 
-            visited[x][y] = 1
+            visited[nx][ny] = 1
+            q.append((nx, ny))
     return 1
 
 
@@ -49,5 +52,3 @@ for i in range(n):
         answer += bfs(i, j)
 
 print(answer)
-for x in processed:
-    print(x)
