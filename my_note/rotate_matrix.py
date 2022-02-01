@@ -1,7 +1,3 @@
-# pip install numpy
-import numpy as np
-
-
 def rotate_matrix_90(A):
     n = len(A)  # length of row
     m = len(A[0])  # length of column
