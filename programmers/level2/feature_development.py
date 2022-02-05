@@ -1,4 +1,5 @@
 # https://programmers.co.kr/learn/courses/30/lessons/42586
+# 코딩테스트 고득점 Kit : Stack/Queue
 
 import math
 from collections import deque

@@ -1,3 +1,7 @@
+# https://programmers.co.kr/learn/courses/30/lessons/42862
+# 코딩테스트 고득점 Kit : Greedy
+
+
 def solution(n, lost, reserve):
     reserve.sort()
     for i, x in enumerate(reserve):
