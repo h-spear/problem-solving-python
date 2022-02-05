@@ -1,4 +1,4 @@
-# https://programmers.co.kr/learn/courses/30/lessons/17682
+# https://programmers.co.kr/learn/courses/30/lessons/1768
 
 import re
 
@@ -6,7 +6,6 @@ bonus = {"S": 1, "D": 2, "T": 3}
 
 
 def solution(dartResult):
-    answer = 0
     dartResult = re.sub("10", "!", dartResult)
     _round = []
     option = [""] * 3
