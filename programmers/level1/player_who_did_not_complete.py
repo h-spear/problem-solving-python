@@ -1,4 +1,5 @@
 # https://programmers.co.kr/learn/courses/30/lessons/42576
+# 코딩테스트 고득점 Kit : hash
 
 from collections import defaultdict, Counter
 
