@@ -1,3 +1,20 @@
+# https://leetcode.com/problems/palindrome-linked-list/
+
+
+class Solution:
+    def isPalindrome(self, head: Optional[ListNode]) -> bool:
+        tmp = []
+        p = head
+        while p != None:
+            tmp.append(p.val)
+            p = p.next
+
+        for i in range(len(tmp) // 2):
+            if tmp[i] != tmp[len(tmp) - i - 1]:
+                return False
+        return True
+
+
 # 1. list 순회
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
