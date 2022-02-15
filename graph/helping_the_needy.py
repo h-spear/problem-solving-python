@@ -64,8 +64,8 @@ for i in range(n):
     for j in range(len(str)):
         if str[j] == "0":
             continue
-        numedges.append((_hash[str[j]], i, j))
-        numanswer += _hash[str[j]]
+        edges.append((num_hash[str[j]], i, j))
+        answer += num_hash[str[j]]
 
 
 def find(parent, x):
