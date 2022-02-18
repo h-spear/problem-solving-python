@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/1748
-s
+
 n = int(input())
 
 end = 9
