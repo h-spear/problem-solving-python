@@ -26,7 +26,7 @@ def KMP(parent, pattern):
 
         if parent[i] == pattern[j]:
             if j == len(pattern) - 1:
-                result.append(i - len(pattern) + 2)
+                result.append(i - len(pattern) + 1)
                 j = table[j]
             else:
                 j += 1

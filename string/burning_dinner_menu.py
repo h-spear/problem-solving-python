@@ -42,5 +42,6 @@ cnt = KMP(text * 2, pattern)
 if pattern == text:
     cnt -= 1
 
+# 기약분수를 만들기위해서는 최대공약수로 나누면 됨.
 _gcd = math.gcd(cnt, N)
 print("{0}/{1}".format(cnt // _gcd, N // _gcd))
