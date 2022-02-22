@@ -1,4 +1,5 @@
 # https://programmers.co.kr/learn/courses/30/lessons/12899
+# 코딩테스트 고득점 Kit : greedy
 
 
 def solution(n):

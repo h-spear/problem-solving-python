@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/implement-trie-prefix-tree/submissions/
+# https://leetcode.com/problems/implement-trie-prefix-tree/
 
 from collections import defaultdict
 
