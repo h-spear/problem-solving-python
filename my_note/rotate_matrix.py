@@ -28,20 +28,17 @@ def rotate_matrix_270(A):
     return result
 
 
-test = [[1, 2, 3], [4, 5, 6], [7, 8, 9], [0, 1, 2]]
-array = np.array(test)
-array_90 = np.array(rotate_matrix_90(test))
-array_180 = np.array(rotate_matrix_180(test))
-array_270 = np.array(rotate_matrix_270(test))
+def print_array(A):
+    for i in range(len(A)):
+        for j in range(len(A[0])):
+            print(A[i][j], end=" ")
+        print()
+    print()
 
-print(array)
-print()
 
-print(array_90)
-print()
+array = [[1, 2, 3], [4, 5, 6], [7, 8, 9], [0, 1, 2]]
 
-print(array_180)
-print()
-
-print(array_270)
-print()
+print_array(array)
+print_array(rotate_matrix_90(array))
+print_array(rotate_matrix_180(array))
+print_array(rotate_matrix_270(array))
