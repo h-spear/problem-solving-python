@@ -1,6 +1,10 @@
 # https://www.acmicpc.net/problem/2263
 # https://www.youtube.com/watch?v=18ncLrRKGiM
 
+import sys
+
+sys.setrecursionlimit(10 ** 6)
+
 
 class TreeNode:
     def __init__(self, value, left, right):
