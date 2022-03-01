@@ -10,10 +10,10 @@ def pow(C, n, mod):
     res = 1
     while n:
         if n & 1:
-            res = C % mod
+            res = res * C
         C = C * C % mod
         n >>= 1
-    return res
+    return res % mod
 
 
 print(pow(a, b, c))
