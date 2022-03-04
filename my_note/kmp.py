@@ -18,7 +18,7 @@ def make_table(s):
 
 
 def KMP(s, p):
-    table = make_table(s)
+    table = make_table(p)
     print(table)
 
     j = 0
