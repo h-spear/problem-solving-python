@@ -1,4 +1,5 @@
 # https://www.acmicpc.net/problem/2470
+# https://www.acmicpc.net/problem/2467
 
 from bisect import bisect_left
 
@@ -7,6 +8,7 @@ A = list(map(int, input().split()))
 A.sort()
 answer = 3000000000
 result = None
+
 for idx, x in enumerate(A):
     i = bisect_left(A, -x)
     for j in [i - 1, i, i + 1]:
