@@ -1,47 +1,44 @@
-# https://www.acmicpc.net/problem/14500
+# https://www.acmicpc.net/problem/9019
+# pypy3
 
-
+from collections import deque
 import sys
 
 input = sys.stdin.readline
 
-tetromino = [
-    [(0, 1), (1, 0), (1, 1)],
-    [(0, 1), (0, 2), (0, 3)],
-    [(1, 0), (2, 0), (3, 0)],
-    [(1, 0), (1, 1), (2, 1)],
-    [(1, 0), (1, -1), (2, -1)],
-    [(0, 1), (1, 1), (1, 2)],
-    [(0, 1), (-1, 1), (-1, 2)],
-    [(0, 1), (0, 2), (1, 2)],
-    [(1, 0), (2, 0), (2, -1)],
-    [(1, 0), (1, 1), (1, 2)],
-    [(0, -1), (1, -1), (2, -1)],
-    [(-1, 0), (-1, 1), (-1, 2)],
-    [(1, 0), (2, 0), (2, 1)],
-    [(0, 1), (0, 2), (-1, 2)],
-    [(0, 1), (1, 1), (2, 1)],
-    [(0, 1), (-1, 1), (0, 2)],
-    [(1, 0), (1, 1), (2, 0)],
-    [(0, 1), (1, 1), (0, 2)],
-    [(1, 0), (1, -1), (2, 0)],
-]
 
-n, m = map(int, input().rstrip().split())
-graph = []
-for _ in range(n):
-    graph.append(list(map(int, input().rstrip().split())))
+def bfs(n, m):
+    visited = [False] * 10000
+    q = deque([("", n)])
+    visited[n] = True
 
-answer = 0
-for i in range(n):
-    for j in range(m):
-        for tet in tetromino:
-            sum = graph[i][j]
-            for dx, dy in tet:
-                if i + dx < n and j + dy < m:
-                    sum += graph[i + dx][j + dy]
-                else:
-                    break
-                answer = max(answer, sum)
+    while q:
+        cmd, now = q.popleft()
 
-print(answer)
+        if now == m:
+            return cmd
+
+        D = now * 2 % 10000
+        if visited[D] == False:
+            visited[D] = True
+            q.append((cmd + "D", D))
+
+        S = (now + 9999) % 10000
+        if visited[S] == False:
+            visited[S] = True
+            q.append((cmd + "S", S))
+
+        L = (now % 1000 * 10) + (now // 1000)
+        if visited[L] == False:
+            visited[L] = True
+            q.append((cmd + "L", L))
+
+        R = (now // 10) + (now % 10 * 1000)
+        if visited[R] == False:
+            visited[R] = True
+            q.append((cmd + "R", R))
+
+
+for _ in range(int(input())):
+    n, m = map(int, input().rstrip().split())
+    print(bfs(n, m))
