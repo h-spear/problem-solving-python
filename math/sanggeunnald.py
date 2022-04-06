@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/problem/5543
+# https://www.acmicpcsanggeunnald.net/problem/5543
 
 burger = []
 beverage = []
