@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/2448
+
 n = int(input())
 result = [[" "] * (n * 2) for _ in range(n)]
 
