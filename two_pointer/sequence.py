@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/2559
+
 n, k = map(int, input().split())
 T = list(map(int, input().split()))
 
