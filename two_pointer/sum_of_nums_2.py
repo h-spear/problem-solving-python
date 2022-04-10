@@ -14,7 +14,6 @@ while j <= n and i <= j:
 
     if j == n and curr_sum < m:
         break
-
     elif curr_sum < m:
         curr_sum += a[j]
         j += 1
