@@ -17,19 +17,20 @@ def mul(A, B):
 
 
 def encrypt(plain_text, key):
-    r = len(plain_text) % 3
+    lk = len(key)
+    r = len(plain_text) % lk
     plain_text = plain_text.upper()
     if r >= 1:
-        plain_text += "X" * (3 - r)
+        plain_text += "X" * (lk - r)
 
     cipher_text = ""
-    for i in range(0, len(plain_text), 3):
+    for i in range(0, len(plain_text), lk):
         p = []
-        for j in range(3):
+        for j in range(lk):
             p.append([alphabet[plain_text[i + j]]])
 
         temp = mul(key, p)
-        for j in range(3):
+        for j in range(lk):
             cipher_text += alphabet_rev[temp[j][0]]
 
     return cipher_text
