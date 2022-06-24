@@ -1,17 +1,23 @@
-# https://www.acmicpc.net/problem/2293
+# https://www.acmicpc.net/problem/9084
 
-n, k = map(int, input().split())
-coins = []
-dp = [0] * (k + 1)
-dp[0] = 1
 
-for _ in range(n):
-    coins.append(int(input()))
-coins.sort()
+def solve(n, coin, amount):
+    dp = [[0] * 21 for _ in range(10001)]
 
-for coin in coins:
-    for i in range(coin, k + 1):
-        if i - coin >= 0:
-            dp[i] += dp[i - coin]
+    for i, c in enumerate(coin):
+        dp[c][i] = 1
 
-print(dp[k])
+    for i in range(amount + 1):
+        for j in range(n):
+            if i - coin[j] < 0:
+                continue
+            dp[i][j] = max(sum(dp[i - coin[j]][: j + 1]), dp[i][j])
+
+    return sum(dp[amount])
+
+
+for tc in range(int(input())):
+    n = int(input())
+    coin = list(map(int, input().split()))
+    amount = int(input())
+    print(solve(n, coin, amount))
