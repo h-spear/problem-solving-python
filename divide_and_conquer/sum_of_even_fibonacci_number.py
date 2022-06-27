@@ -8,7 +8,7 @@ def matrix_multiplication(A, B):
             temp = 0
             for k in range(2):
                 temp += (A[i][k] * B[k][j]) % p
-            C[i][j] = temp
+            C[i][j] = temp % p
     return C
 
 

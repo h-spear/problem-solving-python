@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/problem/11442
+# https://www.acmicpc.net/problem/7677
 
 
 def matrix_multiplication(A, B):
@@ -8,7 +8,7 @@ def matrix_multiplication(A, B):
             temp = 0
             for k in range(2):
                 temp += (A[i][k] * B[k][j]) % p
-            C[i][j] = temp % p 
+            C[i][j] = temp % p
     return C
 
 
@@ -25,8 +25,15 @@ def matrix_power(A, n):
         return matrix_multiplication(temp, temp)
 
 
-p = 1000000007
-n = int(input())
-A = [[1, 1], [1, 0]]
-R = matrix_power(A, n + (n & 1))
-print(R[0][1] % p)
+def fibo(n):
+    A = [[1, 1], [1, 0]]
+    return matrix_power(A, n)[0][1]
+
+
+p = 10000
+while 1:
+    n = int(input())
+    if n == -1:
+        break
+
+    print(fibo(n))
