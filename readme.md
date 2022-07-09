@@ -1,4 +1,4 @@
-## BAEKJOON [<img src=https://static.solved.ac/tier_small/18.svg width="15"/>](https://www.acmicpc.net/user/ki9014) 
+## BAEKJOON <a href="https://www.acmicpc.net/user/ki9014" target="_blank"><img src=https://static.solved.ac/tier_small/18.svg width="15"/></a>
 |    Algorithm    | solved |
 | :-------------: | :----: |
 |back_tracking|2|
@@ -17,10 +17,11 @@
 |segment_tree|13|
 |shortest_path|56|
 |sorting|13|
-|string|85|
+|string|84|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **802**|
+| **sum** | **801**|
+
 ## Programmers
 |    Level    | solved |
 | :-------------: | :----: |
@@ -28,6 +29,7 @@
 |level2|68|
 |level3|14|
 | **sum** | **136**|
+
 ## LeetCode
 |    Algorithm    | solved |
 | :-------------: | :----: |

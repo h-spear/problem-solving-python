@@ -83,7 +83,7 @@ fs.writeFileSync(output_file, '');
 let baekjoon_sum = 0;
 fs.appendFileSync(
     output_file,
-    `## BAEKJOON [<img src=${baekjoon_rank_svg} width="15"/>](https://www.acmicpc.net/user/${baekjoon_id}) \n|    Algorithm    | solved |\n| :-------------: | :----: |\n`,
+    `## BAEKJOON <a href="https://www.acmicpc.net/user/${baekjoon_id}" target="_blank"><img src=${baekjoon_rank_svg} width="15"/></a>\n|    Algorithm    | solved |\n| :-------------: | :----: |\n`,
     'utf-8'
 );
 result['home'].forEach((v) => {
@@ -94,7 +94,7 @@ result['home'].forEach((v) => {
 });
 fs.appendFileSync(
     output_file,
-    '| **sum** | **' + baekjoon_sum + '**|\n&nbsp;\n',
+    '| **sum** | **' + baekjoon_sum + '**|\n\n',
     'utf-8'
 );
 console.log('baekjoon solved ' + baekjoon_sum + '!');
@@ -114,7 +114,7 @@ result['programmers'].forEach((v) => {
 });
 fs.appendFileSync(
     output_file,
-    '| **sum** | **' + programmers_sum + '**|\n&nbsp;\n',
+    '| **sum** | **' + programmers_sum + '**|\n\n',
     'utf-8'
 );
 console.log('programmers solved ' + programmers_sum + '!');
