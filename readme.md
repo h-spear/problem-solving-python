@@ -21,7 +21,6 @@
 |two_pointer|21|
 |union-find|16|
 | **sum** | **802**|
-&nbsp;
 ## Programmers
 |    Level    | solved |
 | :-------------: | :----: |
@@ -29,7 +28,6 @@
 |level2|68|
 |level3|14|
 | **sum** | **136**|
-&nbsp;
 ## LeetCode
 |    Algorithm    | solved |
 | :-------------: | :----: |
