@@ -1,3 +1,6 @@
+# https://www.acmicpc.net/problem/6550
+
+
 def substring(string, pattern):
     ls = len(string)
     lp = len(pattern)
