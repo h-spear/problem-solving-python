@@ -17,10 +17,10 @@
 |segment_tree|13|
 |shortest_path|56|
 |sorting|13|
-|string|98|
+|string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **815**|
+| **sum** | **817**|
 
 ## Programmers
 |    Level    | solved |
