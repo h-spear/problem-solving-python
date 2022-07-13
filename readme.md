@@ -10,17 +10,17 @@
 |divide_and_conquer|28|
 |dynamic_programming|121|
 |graph|47|
-|greedy|46|
+|greedy|49|
 |implementation|93|
 |math|32|
 |samsung|48|
 |segment_tree|13|
 |shortest_path|56|
-|sorting|13|
+|sorting|14|
 |string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **817**|
+| **sum** | **821**|
 
 ## Programmers
 |    Level    | solved |
