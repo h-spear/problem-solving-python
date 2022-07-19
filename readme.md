@@ -5,7 +5,7 @@
 |binary_search|22|
 |bitmask|1|
 |brute_force|36|
-|data_structure|25|
+|data_structure|28|
 |dfs&bfs|97|
 |divide_and_conquer|28|
 |dynamic_programming|121|
@@ -16,11 +16,11 @@
 |samsung|48|
 |segment_tree|13|
 |shortest_path|56|
-|sorting|14|
+|sorting|15|
 |string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **821**|
+| **sum** | **825**|
 
 ## Programmers
 |    Level    | solved |
