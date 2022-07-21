@@ -1,10 +1,10 @@
 ## BAEKJOON <a href="https://www.acmicpc.net/user/ki9014" target="_blank"><img src=https://static.solved.ac/tier_small/18.svg width="15"/></a>
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|back_tracking|2|
-|binary_search|22|
+|back_tracking|3|
+|binary_search|23|
 |bitmask|1|
-|brute_force|36|
+|brute_force|37|
 |data_structure|28|
 |dfs&bfs|97|
 |divide_and_conquer|28|
@@ -20,7 +20,7 @@
 |string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **825**|
+| **sum** | **828**|
 
 ## Programmers
 |    Level    | solved |
