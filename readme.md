@@ -12,15 +12,15 @@
 |graph|47|
 |greedy|49|
 |implementation|93|
-|math|34|
+|math|35|
 |samsung|49|
 |segment_tree|13|
 |shortest_path|56|
-|sorting|18|
+|sorting|20|
 |string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **837**|
+| **sum** | **840**|
 
 ## Programmers
 |    Level    | solved |
