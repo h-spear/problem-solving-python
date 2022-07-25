@@ -4,7 +4,7 @@
 |back_tracking|3|
 |binary_search|23|
 |bitmask|1|
-|brute_force|37|
+|brute_force|40|
 |data_structure|28|
 |dfs&bfs|97|
 |divide_and_conquer|28|
@@ -12,15 +12,15 @@
 |graph|47|
 |greedy|49|
 |implementation|93|
-|math|32|
-|samsung|48|
+|math|34|
+|samsung|49|
 |segment_tree|13|
 |shortest_path|56|
-|sorting|15|
+|sorting|18|
 |string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **828**|
+| **sum** | **837**|
 
 ## Programmers
 |    Level    | solved |
