@@ -5,14 +5,14 @@
 |binary_search|23|
 |bitmask|1|
 |brute_force|40|
-|data_structure|33|
+|data_structure|34|
 |dfs&bfs|97|
 |divide_and_conquer|28|
 |dynamic_programming|121|
 |graph|47|
 |greedy|49|
 |implementation|93|
-|math|37|
+|math|38|
 |samsung|49|
 |segment_tree|13|
 |shortest_path|56|
@@ -20,15 +20,15 @@
 |string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **848**|
+| **sum** | **850**|
 
 ## Programmers
 |    Level    | solved |
 | :-------------: | :----: |
 |level1|54|
 |level2|68|
-|level3|14|
-| **sum** | **136**|
+|level3|15|
+| **sum** | **137**|
 
 ## LeetCode
 |    Algorithm    | solved |
