@@ -2,17 +2,17 @@
 |    Algorithm    | solved |
 | :-------------: | :----: |
 |back_tracking|4|
-|binary_search|23|
+|binary_search|24|
 |bitmask|1|
 |brute_force|40|
 |data_structure|34|
-|dfs&bfs|97|
+|dfs&bfs|101|
 |divide_and_conquer|28|
-|dynamic_programming|121|
+|dynamic_programming|122|
 |graph|47|
 |greedy|49|
 |implementation|93|
-|math|38|
+|math|39|
 |samsung|49|
 |segment_tree|13|
 |shortest_path|56|
@@ -20,7 +20,7 @@
 |string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **850**|
+| **sum** | **857**|
 
 ## Programmers
 |    Level    | solved |
