@@ -2,13 +2,14 @@
 |    Algorithm    | solved |
 | :-------------: | :----: |
 |back_tracking|4|
-|binary_search|24|
+|binary_search|31|
 |bitmask|1|
 |brute_force|40|
 |data_structure|34|
 |dfs&bfs|101|
 |divide_and_conquer|28|
 |dynamic_programming|122|
+|geometry|1|
 |graph|47|
 |greedy|49|
 |implementation|93|
@@ -20,7 +21,7 @@
 |string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **857**|
+| **sum** | **865**|
 
 ## Programmers
 |    Level    | solved |
