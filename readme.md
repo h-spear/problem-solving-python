@@ -2,7 +2,7 @@
 |    Algorithm    | solved |
 | :-------------: | :----: |
 |back_tracking|4|
-|binary_search|39|
+|binary_search|40|
 |bitmask|1|
 |brute_force|40|
 |data_structure|34|
@@ -21,7 +21,7 @@
 |string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **874**|
+| **sum** | **875**|
 
 ## Programmers
 |    Level    | solved |
