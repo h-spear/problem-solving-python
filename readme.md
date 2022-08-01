@@ -14,14 +14,14 @@
 |greedy|49|
 |implementation|93|
 |math|39|
-|samsung|49|
+|samsung|50|
 |segment_tree|13|
 |shortest_path|56|
 |sorting|20|
 |string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **865**|
+| **sum** | **866**|
 
 ## Programmers
 |    Level    | solved |
