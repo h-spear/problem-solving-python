@@ -11,7 +11,7 @@
 |dynamic_programming|122|
 |geometry|1|
 |graph|47|
-|greedy|49|
+|greedy|48|
 |implementation|93|
 |math|39|
 |samsung|50|
@@ -21,15 +21,17 @@
 |string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **875**|
+| **sum** | **874**|
 
 ## Programmers
 |    Level    | solved |
 | :-------------: | :----: |
 |level1|54|
 |level2|68|
-|level3|15|
-| **sum** | **137**|
+|level3|19|
+|level4|1|
+|level5|0|
+| **sum** | **142**|
 
 ## LeetCode
 |    Algorithm    | solved |
