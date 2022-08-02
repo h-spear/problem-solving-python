@@ -2,7 +2,7 @@
 |    Algorithm    | solved |
 | :-------------: | :----: |
 |back_tracking|4|
-|binary_search|40|
+|binary_search|41|
 |bitmask|1|
 |brute_force|40|
 |data_structure|34|
@@ -13,7 +13,8 @@
 |graph|47|
 |greedy|48|
 |implementation|93|
-|math|39|
+|math|40|
+|prefix_sum|2|
 |samsung|50|
 |segment_tree|13|
 |shortest_path|56|
@@ -21,17 +22,17 @@
 |string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **874**|
+| **sum** | **878**|
 
 ## Programmers
 |    Level    | solved |
 | :-------------: | :----: |
 |level1|54|
 |level2|68|
-|level3|19|
+|level3|20|
 |level4|1|
 |level5|0|
-| **sum** | **142**|
+| **sum** | **143**|
 
 ## LeetCode
 |    Algorithm    | solved |
