@@ -14,7 +14,7 @@
 |greedy|48|
 |implementation|93|
 |math|40|
-|prefix_sum|2|
+|prefix_sum|4|
 |samsung|50|
 |segment_tree|13|
 |shortest_path|56|
@@ -22,17 +22,17 @@
 |string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **878**|
+| **sum** | **880**|
 
 ## Programmers
 |    Level    | solved |
 | :-------------: | :----: |
 |level1|54|
 |level2|68|
-|level3|20|
+|level3|22|
 |level4|1|
 |level5|0|
-| **sum** | **143**|
+| **sum** | **145**|
 
 ## LeetCode
 |    Algorithm    | solved |
