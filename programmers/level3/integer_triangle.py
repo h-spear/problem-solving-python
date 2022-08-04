@@ -1,4 +1,5 @@
 # https://programmers.co.kr/learn/courses/30/lessons/43105
+# 코딩테스트 고득점 Kit : Dynamic Programming
 
 
 def solution(triangle):
