@@ -29,10 +29,10 @@
 | :-------------: | :----: |
 |level1|54|
 |level2|69|
-|level3|28|
-|level4|1|
+|level3|31|
+|level4|2|
 |level5|0|
-| **sum** | **152**|
+| **sum** | **156**|
 
 ## LeetCode
 |    Algorithm    | solved |
