@@ -28,11 +28,11 @@
 |    Level    | solved |
 | :-------------: | :----: |
 |level1|54|
-|level2|69|
-|level3|25|
+|level2|68|
+|level3|22|
 |level4|1|
 |level5|0|
-| **sum** | **149**|
+| **sum** | **145**|
 
 ## LeetCode
 |    Algorithm    | solved |
