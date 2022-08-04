@@ -13,6 +13,4 @@ for i in range(1, 4):
     for j in range(m, n + 1):
         dp[i][j] = max(dp[i][j - 1], dp[i - 1][j - m] + psum[j] - psum[j - m])
 
-for x in dp:
-    print(x)
 print(dp[3][n])

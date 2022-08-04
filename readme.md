@@ -6,7 +6,7 @@
 |bitmask|1|
 |brute_force|40|
 |data_structure|34|
-|dfs&bfs|101|
+|dfs&bfs|102|
 |divide_and_conquer|28|
 |dynamic_programming|122|
 |geometry|1|
@@ -22,7 +22,7 @@
 |string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **880**|
+| **sum** | **881**|
 
 ## Programmers
 |    Level    | solved |
