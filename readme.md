@@ -30,9 +30,9 @@
 |level1|54|
 |level2|69|
 |level3|31|
-|level4|2|
+|level4|4|
 |level5|0|
-| **sum** | **156**|
+| **sum** | **158**|
 
 ## LeetCode
 |    Algorithm    | solved |
