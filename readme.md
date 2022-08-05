@@ -8,7 +8,7 @@
 |data_structure|34|
 |dfs&bfs|102|
 |divide_and_conquer|28|
-|dynamic_programming|122|
+|dynamic_programming|123|
 |geometry|1|
 |graph|47|
 |greedy|48|
@@ -22,17 +22,17 @@
 |string|100|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **881**|
+| **sum** | **882**|
 
 ## Programmers
 |    Level    | solved |
 | :-------------: | :----: |
 |level1|54|
-|level2|69|
-|level3|31|
-|level4|4|
+|level2|70|
+|level3|33|
+|level4|5|
 |level5|0|
-| **sum** | **158**|
+| **sum** | **162**|
 
 ## LeetCode
 |    Algorithm    | solved |
