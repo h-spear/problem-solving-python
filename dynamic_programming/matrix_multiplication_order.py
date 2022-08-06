@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/11049
 # https://www.youtube.com/watch?v=u1gIkGXUqBQ
+# https://www.youtube.com/watch?v=Tdl6VP4bS90
 
 n = int(input())
 matrix = []
@@ -19,4 +20,4 @@ for i in range(1, n):
                 dp[j][k] + dp[k + 1][x] + matrix[j][0] * matrix[k][1] * matrix[x][1],
             )
 
-print(matrix[0][n - 1])
+print(dp[0][n - 1])
