@@ -20,19 +20,20 @@
 |shortest_path|56|
 |sorting|20|
 |string|100|
+|tree|1|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **882**|
+| **sum** | **883**|
 
 ## Programmers
 |    Level    | solved |
 | :-------------: | :----: |
 |level1|54|
 |level2|70|
-|level3|33|
-|level4|5|
+|level3|35|
+|level4|6|
 |level5|0|
-| **sum** | **162**|
+| **sum** | **165**|
 
 ## LeetCode
 |    Algorithm    | solved |
