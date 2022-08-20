@@ -35,18 +35,3 @@
 |level5|0|
 | **sum** | **165**|
 
-## LeetCode
-|    Algorithm    | solved |
-| :-------------: | :----: |
-|array|4|
-|graph|9|
-|hash|3|
-|heap|1|
-|linkedlist|6|
-|priority_queue|1|
-|shortest_path|1|
-|stack&queue|4|
-|string|6|
-|tree|7|
-|trie|1|
-| **sum** | **43**|

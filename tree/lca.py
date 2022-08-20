@@ -2,7 +2,10 @@
 # Tree
 # LCA Algorithm
 
+import sys
 from collections import defaultdict
+
+sys.setrecursionlimit(10 ** 5)
 
 
 n = int(input())

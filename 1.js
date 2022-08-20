@@ -55,22 +55,22 @@ fs.readdirSync(programmers_dir, { withFileTypes: true }).forEach((p) => {
 });
 
 // leetcode
-fs.readdirSync(leetcode_dir, { withFileTypes: true }).forEach((p) => {
-    const name = p.name;
-    const path = leetcode_dir + '/' + name;
+// fs.readdirSync(leetcode_dir, { withFileTypes: true }).forEach((p) => {
+//     const name = p.name;
+//     const path = leetcode_dir + '/' + name;
 
-    if (!p.isDirectory()) {
-        return;
-    }
-    if (name[0] == '.') {
-        return;
-    }
+//     if (!p.isDirectory()) {
+//         return;
+//     }
+//     if (name[0] == '.') {
+//         return;
+//     }
 
-    result['leetcode'].push({
-        name,
-        length: fs.readdirSync(path).length,
-    });
-});
+//     result['leetcode'].push({
+//         name,
+//         length: fs.readdirSync(path).length,
+//     });
+// });
 
 // write md file
 if (!fs.existsSync(output_file)) {
@@ -119,23 +119,23 @@ fs.appendFileSync(
 );
 console.log('programmers solved ' + programmers_sum + '!');
 
-// 리트코드
-let leetcode_sum = 0;
-fs.appendFileSync(
-    output_file,
-    '## LeetCode\n|    Algorithm    | solved |\n| :-------------: | :----: |\n',
-    'utf-8'
-);
-result['leetcode'].forEach((v) => {
-    const { name, length } = v;
-    temp = '|' + name + '|' + length + '|\n';
-    leetcode_sum += length;
-    fs.appendFileSync(output_file, temp, 'utf-8');
-});
-fs.appendFileSync(
-    output_file,
-    '| **sum** | **' + leetcode_sum + '**|\n',
-    'utf-8'
-);
-console.log('leetcode solved ' + leetcode_sum + '!\n');
+// // 리트코드
+// let leetcode_sum = 0;
+// fs.appendFileSync(
+//     output_file,
+//     '## LeetCode\n|    Algorithm    | solved |\n| :-------------: | :----: |\n',
+//     'utf-8'
+// );
+// result['leetcode'].forEach((v) => {
+//     const { name, length } = v;
+//     temp = '|' + name + '|' + length + '|\n';
+//     leetcode_sum += length;
+//     fs.appendFileSync(output_file, temp, 'utf-8');
+// });
+// fs.appendFileSync(
+//     output_file,
+//     '| **sum** | **' + leetcode_sum + '**|\n',
+//     'utf-8'
+// );
+//console.log('leetcode solved ' + leetcode_sum + '!\n');
 console.log('saved successfully! ' + output_file);
