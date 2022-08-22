@@ -28,10 +28,10 @@
 ## Programmers
 |    Level    | solved |
 | :-------------: | :----: |
-|level1|54|
-|level2|70|
-|level3|35|
+|level1|55|
+|level2|71|
+|level3|37|
 |level4|6|
 |level5|0|
-| **sum** | **165**|
+| **sum** | **169**|
 
