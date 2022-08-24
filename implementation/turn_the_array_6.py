@@ -1,3 +1,6 @@
+# https://www.acmicpc.net/problem/20327
+
+
 def flip_vertical(A):
     n = len(A)
     result = [[0] * n for _ in range(n)]
