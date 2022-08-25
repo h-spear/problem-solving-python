@@ -31,7 +31,7 @@
 |level1|55|
 |level2|71|
 |level3|40|
-|level4|9|
+|level4|13|
 |level5|0|
-| **sum** | **175**|
+| **sum** | **179**|
 
