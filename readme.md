@@ -12,6 +12,7 @@
 |geometry|1|
 |graph|47|
 |greedy|48|
+|hyundai_mobis|4|
 |implementation|93|
 |math|40|
 |prefix_sum|4|
@@ -23,7 +24,7 @@
 |tree|1|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **883**|
+| **sum** | **887**|
 
 ## Programmers
 |    Level    | solved |
