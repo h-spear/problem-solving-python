@@ -15,7 +15,7 @@
 |hyundai_mobis|4|
 |implementation|93|
 |math|40|
-|network_flow|11|
+|network_flow|12|
 |prefix_sum|4|
 |samsung|50|
 |segment_tree|13|
@@ -25,7 +25,7 @@
 |tree|1|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **898**|
+| **sum** | **899**|
 
 ## Programmers
 |    Level    | solved |
