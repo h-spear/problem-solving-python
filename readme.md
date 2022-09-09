@@ -19,13 +19,13 @@
 |prefix_sum|4|
 |samsung|50|
 |segment_tree|13|
-|shortest_path|56|
+|shortest_path|60|
 |sorting|20|
 |string|100|
 |tree|1|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **900**|
+| **sum** | **904**|
 
 ## Programmers
 |    Level    | solved |
@@ -34,6 +34,5 @@
 |level2|71|
 |level3|41|
 |level4|13|
-|level5|0|
 | **sum** | **180**|
 
