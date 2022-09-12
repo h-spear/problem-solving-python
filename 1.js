@@ -11,7 +11,7 @@ const result = { home: [], programmers: [], leetcode: [] };
 
 const output_file = 'readme.md';
 const baekjoon_id = 'ki9014';
-const baekjoon_rank_svg = 'https://static.solved.ac/tier_small/18.svg';
+const baekjoon_rank_svg = 'https://static.solved.ac/tier_small/19.svg';
 
 function check_condition(p) {
     if (
