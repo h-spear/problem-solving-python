@@ -30,11 +30,11 @@
 ## Programmers
 |    Level    | solved |
 | :-------------: | :----: |
-|level0|40|
+|level0|60|
 |level1|56|
 |level2|73|
 |level3|43|
 |level4|13|
 |level5|0|
-| **sum** | **225**|
+| **sum** | **245**|
 
