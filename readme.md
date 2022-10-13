@@ -31,10 +31,10 @@
 |    Level    | solved |
 | :-------------: | :----: |
 |level0|60|
-|level1|56|
+|level1|57|
 |level2|73|
 |level3|43|
 |level4|13|
 |level5|0|
-| **sum** | **245**|
+| **sum** | **246**|
 
