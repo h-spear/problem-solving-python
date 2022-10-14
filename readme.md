@@ -33,8 +33,8 @@
 |level0|60|
 |level1|57|
 |level2|75|
-|level3|43|
+|level3|44|
 |level4|13|
 |level5|0|
-| **sum** | **248**|
+| **sum** | **249**|
 
