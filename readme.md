@@ -31,11 +31,11 @@
 |    Level    | solved |
 | :-------------: | :----: |
 |level0|100|
-|level1|57|
-|level2|75|
-|level3|44|
+|level1|58|
+|level2|76|
+|level3|45|
 |level4|15|
 |level5|0|
 |pccp|8|
-| **sum** | **299**|
+| **sum** | **302**|
 
