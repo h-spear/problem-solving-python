@@ -4,10 +4,11 @@ const home_dir = './';
 
 const programmers_dir = './programmers';
 const leetcode_dir = './leetcode';
+const swacademy_dir = './sw_expert_academy';
 const fail_dir = './fail';
 const note_dir = './my_note';
 
-const result = { home: [], programmers: [], leetcode: [] };
+const result = { home: [], programmers: [], leetcode: [], swacademy: [] };
 
 const output_file = 'readme.md';
 const baekjoon_id = 'ki9014';
@@ -17,6 +18,7 @@ function check_condition(p) {
     if (
         './' + p.name === programmers_dir ||
         './' + p.name === leetcode_dir ||
+        './' + p.name === swacademy_dir ||
         './' + p.name === fail_dir ||
         './' + p.name === note_dir
     ) {
@@ -49,6 +51,20 @@ fs.readdirSync(programmers_dir, { withFileTypes: true }).forEach((p) => {
         return;
     }
     result['programmers'].push({
+        name,
+        length: fs.readdirSync(path).length,
+    });
+});
+
+// sw academy
+fs.readdirSync(swacademy_dir, { withFileTypes: true }).forEach((p) => {
+    const name = p.name;
+    const path = swacademy_dir + '/' + name;
+
+    if (!check_condition(p)) {
+        return;
+    }
+    result['swacademy'].push({
         name,
         length: fs.readdirSync(path).length,
     });
@@ -118,6 +134,26 @@ fs.appendFileSync(
     'utf-8'
 );
 console.log('programmers solved ' + programmers_sum + '!');
+
+// sw academy
+let swacademy_sum = 0;
+fs.appendFileSync(
+    output_file,
+    '## SW Expert Academy\n|    Difficulty    | solved |\n| :-------------: | :----: |\n',
+    'utf-8'
+);
+result['swacademy'].forEach((v) => {
+    const { name, length } = v;
+    temp = '|' + name + '|' + length + '|\n';
+    swacademy_sum += length;
+    fs.appendFileSync(output_file, temp, 'utf-8');
+});
+fs.appendFileSync(
+    output_file,
+    '| **sum** | **' + swacademy_sum + '**|\n\n',
+    'utf-8'
+);
+console.log('sw academy solved ' + swacademy_sum + '!');
 
 // // 리트코드
 // let leetcode_sum = 0;
