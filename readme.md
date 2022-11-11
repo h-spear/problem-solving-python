@@ -31,13 +31,13 @@
 |    Level    | solved |
 | :-------------: | :----: |
 |level0|100|
-|level1|61|
+|level1|62|
 |level2|77|
 |level3|46|
 |level4|15|
 |level5|0|
 |pccp|8|
-| **sum** | **307**|
+| **sum** | **308**|
 
 ## SW Expert Academy
 |    Difficulty    | solved |
@@ -45,7 +45,7 @@
 |D1|1|
 |D2|0|
 |D3|11|
-|D4|6|
+|D4|8|
 |D5|0|
-| **sum** | **18**|
+| **sum** | **20**|
 
