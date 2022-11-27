@@ -22,10 +22,10 @@
 |shortest_path|60|
 |sorting|20|
 |string|100|
-|tree|5|
+|tree|6|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **914**|
+| **sum** | **915**|
 
 ## Programmers
 |    Level    | solved |
