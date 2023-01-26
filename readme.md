@@ -32,12 +32,12 @@
 | :-------------: | :----: |
 |level0|100|
 |level1|68|
-|level2|86|
+|level2|90|
 |level3|50|
 |level4|15|
 |level5|0|
 |pccp|8|
-| **sum** | **327**|
+| **sum** | **331**|
 
 ## SW Expert Academy
 |    Difficulty    | solved |
