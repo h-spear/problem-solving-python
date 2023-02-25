@@ -2,24 +2,30 @@ const fs = require('fs');
 
 const home_dir = './';
 
+const baekjoon_dir = './baekjoon';
 const programmers_dir = './programmers';
 const leetcode_dir = './leetcode';
 const swacademy_dir = './sw_expert_academy';
-const fail_dir = './fail';
+const goorm_dir = './goorm';
 const note_dir = './my_note';
 
-const result = { home: [], programmers: [], leetcode: [], swacademy: [] };
+const result = {
+    baekjoon: [],
+    programmers: [],
+    leetcode: [],
+    swacademy: [],
+    goorm: [],
+};
 
 const output_file = 'readme.md';
-const baekjoon_id = 'ki9014';
-const baekjoon_rank_svg = 'https://static.solved.ac/tier_small/19.svg';
 
 function check_condition(p) {
     if (
+        './' + p.name === baekjoon_dir ||
         './' + p.name === programmers_dir ||
         './' + p.name === leetcode_dir ||
         './' + p.name === swacademy_dir ||
-        './' + p.name === fail_dir ||
+        './' + p.name === goorm_dir ||
         './' + p.name === note_dir
     ) {
         return false;
@@ -33,13 +39,13 @@ function check_condition(p) {
     return true;
 }
 
-fs.readdirSync(home_dir, { withFileTypes: true }).forEach((p) => {
+fs.readdirSync(baekjoon_dir, { withFileTypes: true }).forEach((p) => {
     const name = p.name;
-    const path = './' + name;
+    const path = baekjoon_dir + '/' + name;
     if (!check_condition(p)) {
         return;
     }
-    result['home'].push({ name, length: fs.readdirSync(path).length });
+    result['baekjoon'].push({ name, length: fs.readdirSync(path).length });
 });
 
 // programmers
@@ -99,10 +105,10 @@ fs.writeFileSync(output_file, '');
 let baekjoon_sum = 0;
 fs.appendFileSync(
     output_file,
-    `## BAEKJOON <a href="https://www.acmicpc.net/user/${baekjoon_id}" target="_blank"><img src=${baekjoon_rank_svg} width="15"/></a>\n|    Algorithm    | solved |\n| :-------------: | :----: |\n`,
+    `## BAEKJOON \n|    Algorithm    | solved |\n| :-------------: | :----: |\n`,
     'utf-8'
 );
-result['home'].forEach((v) => {
+result['baekjoon'].forEach((v) => {
     const { name, length } = v;
     temp = '|' + name + '|' + length + '|\n';
     baekjoon_sum += length;

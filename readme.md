@@ -1,4 +1,4 @@
-## BAEKJOON <a href="https://www.acmicpc.net/user/ki9014" target="_blank"><img src=https://static.solved.ac/tier_small/19.svg width="15"/></a>
+## BAEKJOON 
 |    Algorithm    | solved |
 | :-------------: | :----: |
 |back_tracking|4|
@@ -10,7 +10,6 @@
 |divide_and_conquer|28|
 |dynamic_programming|123|
 |geometry|1|
-|goorm|4|
 |graph|47|
 |greedy|48|
 |implementation|93|
@@ -25,7 +24,7 @@
 |tree|7|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **916**|
+| **sum** | **912**|
 
 ## Programmers
 |    Level    | solved |
@@ -47,5 +46,6 @@
 |D3|11|
 |D4|8|
 |D5|0|
+|D6|0|
 | **sum** | **20**|
 
