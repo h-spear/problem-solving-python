@@ -12,19 +12,19 @@
 |geometry|1|
 |graph|47|
 |greedy|48|
-|implementation|93|
+|implementation|95|
 |math|40|
 |network_flow|19|
 |prefix_sum|4|
 |samsung|50|
 |segment_tree|13|
-|shortest_path|60|
+|shortest_path|61|
 |sorting|20|
 |string|100|
 |tree|7|
 |two_pointer|21|
 |union-find|16|
-| **sum** | **912**|
+| **sum** | **915**|
 
 ## LeetCode
 |    Algorithm    | solved |
