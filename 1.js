@@ -157,7 +157,7 @@ fs.appendFileSync(
     '| **sum** | **' + leetcode_sum + '**|\n',
     'utf-8'
 );
-console.log('leetcode solved ' + leetcode_sum + '!\n');
+console.log('leetcode solved ' + leetcode_sum + '!');
 
 // 프로그래머스
 let programmers_sum = 0;
