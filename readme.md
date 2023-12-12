@@ -1,11 +1,11 @@
 ## BAEKJOON 
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|back_tracking|4|
+|back_tracking|5|
 |binary_search|41|
 |bitmask|1|
 |brute_force|40|
-|data_structure|34|
+|data_structure|35|
 |dfs&bfs|102|
 |divide_and_conquer|28|
 |dynamic_programming|123|
@@ -24,7 +24,7 @@
 |tree|7|
 |two_pointer|22|
 |union-find|16|
-| **sum** | **920**|
+| **sum** | **922**|
 
 ## LeetCode
 |    Algorithm    | solved |
