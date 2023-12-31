@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/9324
+
 from collections import defaultdict
 
 for tc in range(int(input())):

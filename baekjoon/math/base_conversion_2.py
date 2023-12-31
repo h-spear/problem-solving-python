@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/11005
+
 hash = {i + 10: x for i, x in enumerate("ABCDEFGHIJKLMNOPQRSTUVWXYZ")}
 for i in range(10):
     hash[i] = str(i)

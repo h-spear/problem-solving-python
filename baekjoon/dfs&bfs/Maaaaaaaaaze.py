@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/16985
+
 from collections import deque
 
 dx = [1, -1, 0, 0, 0, 0]

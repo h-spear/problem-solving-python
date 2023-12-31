@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/1068
+
 n = int(input())
 graph = [[] for _ in range(n)]
 parent = list(map(int, input().split()))

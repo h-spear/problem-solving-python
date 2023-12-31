@@ -1,3 +1,6 @@
+# https://www.acmicpc.net/problem/3986
+
+
 def is_good_word(s):
     ls = len(s)
     stack = []

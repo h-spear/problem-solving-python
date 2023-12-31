@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/2864
+
 a, b = input().split()
 
 max_a = int(a.replace("5", "6"))

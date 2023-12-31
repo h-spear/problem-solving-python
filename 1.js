@@ -1,4 +1,5 @@
 const fs = require('fs');
+const { runBaekjoonReadmeGenerator } = require('./baekjoon/boj.js');
 
 const home_dir = './';
 
@@ -6,7 +7,6 @@ const baekjoon_dir = './baekjoon';
 const programmers_dir = './programmers';
 const leetcode_dir = './leetcode';
 const swacademy_dir = './sw_expert_academy';
-const goorm_dir = './goorm';
 const note_dir = './my_note';
 
 const result = {
@@ -14,7 +14,6 @@ const result = {
     programmers: [],
     leetcode: [],
     swacademy: [],
-    goorm: [],
 };
 
 const output_file = 'readme.md';
@@ -25,7 +24,6 @@ function check_condition(p) {
         './' + p.name === programmers_dir ||
         './' + p.name === leetcode_dir ||
         './' + p.name === swacademy_dir ||
-        './' + p.name === goorm_dir ||
         './' + p.name === note_dir
     ) {
         return false;
@@ -94,23 +92,7 @@ fs.readdirSync(leetcode_dir, { withFileTypes: true }).forEach((p) => {
     });
 });
 
-// goorm;
-fs.readdirSync(goorm_dir, { withFileTypes: true }).forEach((p) => {
-    const name = p.name;
-    const path = goorm_dir + '/' + name;
-
-    if (!p.isDirectory()) {
-        return;
-    }
-    if (name[0] == '.') {
-        return;
-    }
-
-    result['goorm'].push({
-        name,
-        length: fs.readdirSync(path).length,
-    });
-});
+runBaekjoonReadmeGenerator();
 
 // write md file
 if (!fs.existsSync(output_file)) {

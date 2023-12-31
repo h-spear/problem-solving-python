@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/17406
+
 from collections import deque
 from copy import deepcopy
 from itertools import permutations

@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/14496
+
 from collections import deque
 
 a, b = map(int, input().split())

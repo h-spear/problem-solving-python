@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/submit/15663/32838425
+# https://www.acmicpc.net/problem/15663
 
 from itertools import permutations
 

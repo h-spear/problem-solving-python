@@ -1,10 +1,11 @@
+# https://www.acmicpc.net/problem/7562
+
 from collections import deque
 
 dx = [1, 1, -1, -1, 2, 2, -2, -2]
 dy = [2, -2, 2, -2, -1, 1, -1, 1]
 
 for tc in range(int(input())):
-
     l = int(input())
     x, y = map(int, input().split())
     target_x, target_y = map(int, input().split())

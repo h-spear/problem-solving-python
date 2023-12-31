@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/submit/15681/52093996
+# https://www.acmicpc.net/problem/15681
 
 from collections import defaultdict
 import sys

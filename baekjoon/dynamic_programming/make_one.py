@@ -1,17 +1,16 @@
+# https://www.acmicpc.net/problem/1463
+
 x = int(input())
 
-array = [30001] * (x + 1)
-array[x] = 0
+dp = [0] * 1000001
 
-for i in range(x, 0, -1):
-    num = array[i]
-    if i % 5 == 0:
-        array[i // 5] = min(array[i // 5], array[i] + 1)
-    if i % 3 == 0:
-        array[i // 3] = min(array[i // 3], array[i] + 1)
+for i in range(2, x + 1):
+    dp[i] = dp[i - 1] + 1
+
     if i % 2 == 0:
-        array[i // 2] = min(array[i // 2], array[i] + 1)
+        dp[i] = min(dp[i // 2] + 1, dp[i])
 
-    array[i - 1] = min(array[i - 1], array[i] + 1)
+    if i % 3 == 0:
+        dp[i] = min(dp[i // 3] + 1, dp[i])
 
-print(array[1])
+print(dp[x])

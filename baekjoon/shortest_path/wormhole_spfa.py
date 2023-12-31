@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/1865
+
 from collections import defaultdict, deque
 
 for tc in range(int(input())):
@@ -27,7 +29,6 @@ for tc in range(int(input())):
             on[x] = 0
 
             for y, cost in graph[x]:
-
                 if distance[y] > distance[x] + cost:
                     distance[y] = distance[x] + cost
                     if not on[y]:

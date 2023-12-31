@@ -2,29 +2,29 @@
 |    Algorithm    | solved |
 | :-------------: | :----: |
 |back_tracking|5|
-|binary_search|41|
+|binary_search|35|
 |bitmask|1|
-|brute_force|40|
+|brute_force|39|
 |data_structure|35|
-|dfs&bfs|102|
+|dfs&bfs|98|
 |divide_and_conquer|28|
-|dynamic_programming|123|
+|dynamic_programming|114|
 |geometry|1|
-|graph|47|
-|greedy|48|
-|implementation|99|
-|math|40|
+|graph|42|
+|greedy|36|
+|implementation|90|
+|math|38|
 |network_flow|19|
 |prefix_sum|4|
 |samsung|50|
 |segment_tree|13|
-|shortest_path|61|
-|sorting|20|
+|shortest_path|51|
+|sorting|16|
 |string|100|
 |tree|7|
 |two_pointer|22|
-|union-find|16|
-| **sum** | **922**|
+|union-find|12|
+| **sum** | **856**|
 
 ## LeetCode
 |    Algorithm    | solved |

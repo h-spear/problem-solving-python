@@ -1,5 +1,4 @@
-from urllib.parse import MAX_CACHE_SIZE
-
+# https://www.acmicpc.net/problem/5212
 
 r, c = map(int, input().split())
 graph = [["."] * (c + 2) for _ in range(r + 2)]

@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/2847
+
 n = int(input())
 score = []
 for _ in range(n):

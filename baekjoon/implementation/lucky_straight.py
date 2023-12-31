@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/18406
+
 input_data = list(map(int, list(input())))
 
 length = len(input_data)

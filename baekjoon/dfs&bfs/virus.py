@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/submit/2606/32352217
+# https://www.acmicpc.net/problem/2606
 
 v = int(input())
 e = int(input())

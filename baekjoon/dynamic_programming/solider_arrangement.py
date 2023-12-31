@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/problem/18353'
+# https://www.acmicpc.net/problem/18353
 # 최장 증가 부분 수열(LIS, Longest Increasing Subsequence)
 
 n = int(input())
