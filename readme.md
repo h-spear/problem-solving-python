@@ -11,7 +11,7 @@
 |dynamic_programming|114|
 |geometry|1|
 |graph|42|
-|greedy|36|
+|greedy|37|
 |implementation|90|
 |math|38|
 |network_flow|19|
@@ -24,7 +24,7 @@
 |tree|7|
 |two_pointer|22|
 |union-find|12|
-| **sum** | **856**|
+| **sum** | **857**|
 
 ## LeetCode
 |    Algorithm    | solved |

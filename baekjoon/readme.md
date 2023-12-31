@@ -485,6 +485,7 @@
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/9237">9237</a> | 이장님 초대 | <a href="./greedy/invite_head.py">invite_head.py</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/10162">10162</a> | 전자레인지 | <a href="./greedy/microwave.py">microwave.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/10610">10610</a> | 30 | <a href="./greedy/30.py">30.py</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/11000">11000</a> | 강의실 배정 | <a href="./greedy/classroom_assignment.py">classroom_assignment.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/11497">11497</a> | 통나무 건너뛰기 | <a href="./greedy/cross_the_log.py">cross_the_log.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/11508">11508</a> | 2+1 세일 | <a href="./greedy/two_plus_one_sale.py">two_plus_one_sale.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/13305">13305</a> | 주유소 | <a href="./greedy/gas_station.py">gas_station.py</a> |
@@ -902,7 +903,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/9935">9935</a> | 문자열 폭발 | <a href="./string/string_explosion.py">string_explosion.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/9996">9996</a> | 한국이 그리울 땐 서버에 접속하지 | <a href="./string/connect_server_when_i_miss_korea.py">connect_server_when_i_miss_korea.py</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/10266">10266</a> | 시계 사진들 | <a href="./string/clock_pictures.py">clock_pictures.py</a> |
-|    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/10988">10988</a> | 팰린드롬인지 확인하기 | <a href="./string/palindrome.py">palindrome.py</a> |
+|    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/10988">10988</a> | 팰린드롬인지 확인하기 | <a href="./string/palindrome.py">palindrome.py</a> |
 |    <img src="https://static.solved.ac/tier_small/2.svg" width="20"></img>    | <a href="http://boj.kr/11365">11365</a> | !밀비 급일 | <a href="./string/top_secret.py">top_secret.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/11478">11478</a> | 서로 다른 부분 문자열의 개수 | <a href="./string/different_substring_count.py">different_substring_count.py</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/11479">11479</a> | 서로 다른 부분 문자열의 개수 2 | <a href="./string/different_substring_count_2.py">different_substring_count_2.py</a> |
