@@ -159,6 +159,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1303">1303</a> | 전쟁 - 전투 | <a href="./dfs&bfs/avoid_food.py">avoid_food.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1325">1325</a> | 효율적인 해킹 | <a href="./dfs&bfs/effective_hacking.py">effective_hacking.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1520">1520</a> | 내리막 길 | <a href="./dfs&bfs/downhill.py">downhill.py</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/1525">1525</a> | 퍼즐 | <a href="./dfs&bfs/puzzle.py">puzzle.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1600">1600</a> | 말이 되고픈 원숭이 | <a href="./dfs&bfs/monkey.py">monkey.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1697">1697</a> | 숨바꼭질 | <a href="./dfs&bfs/hide_and_seek.py">hide_and_seek.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1707">1707</a> | 이분 그래프 | <a href="./dfs&bfs/bipartite_graph_dfs.py">bipartite_graph_dfs.py</a> |
@@ -293,6 +294,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1149">1149</a> | RGB거리 | <a href="./dynamic_programming/RGB_street.py">RGB_street.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1149">1149</a> | RGB거리 | <a href="./dynamic_programming/RGB_street.py">RGB_street.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1309">1309</a> | 동물원 | <a href="./dynamic_programming/zoo.py">zoo.py</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1351">1351</a> | 무한 수열 | <a href="./dynamic_programming/infinite_sequence.py">infinite_sequence.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/1463">1463</a> | 1로 만들기 | <a href="./dynamic_programming/make_one_2.py">make_one_2.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/1463">1463</a> | 1로 만들기 | <a href="./dynamic_programming/make_one_2.py">make_one_2.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1495">1495</a> | 기타리스트 | <a href="./dynamic_programming/guitarist.py">guitarist.py</a> |
@@ -602,6 +604,7 @@
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/1002">1002</a> | 터렛 | <a href="./math/turret.py">turret.py</a> |
+|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1747">1747</a> | 소수&팰린드롬 | <a href="./math/prime_number_and_palindrome.py">prime_number_and_palindrome.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1850">1850</a> | 최대공약수 | <a href="./math/greatest_comon_factor.py">greatest_comon_factor.py</a> |
 |    <img src="https://static.solved.ac/tier_small/5.svg" width="20"></img>    | <a href="http://boj.kr/1934">1934</a> | 최소공배수 | <a href="./math/LCM.py">LCM.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/2004">2004</a> | 조합 0의 개수 | <a href="./math/combinations_zero_count.py">combinations_zero_count.py</a> |

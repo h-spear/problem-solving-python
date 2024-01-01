@@ -6,14 +6,14 @@
 |bitmask|1|
 |brute_force|39|
 |data_structure|35|
-|dfs&bfs|98|
+|dfs&bfs|99|
 |divide_and_conquer|28|
-|dynamic_programming|114|
+|dynamic_programming|115|
 |geometry|1|
 |graph|42|
 |greedy|37|
 |implementation|90|
-|math|38|
+|math|39|
 |network_flow|19|
 |prefix_sum|4|
 |samsung|50|
@@ -24,7 +24,7 @@
 |tree|7|
 |two_pointer|22|
 |union-find|12|
-| **sum** | **857**|
+| **sum** | **860**|
 
 ## LeetCode
 |    Algorithm    | solved |
