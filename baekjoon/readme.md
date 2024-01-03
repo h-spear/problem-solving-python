@@ -493,6 +493,7 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/13305">13305</a> | 주유소 | <a href="./greedy/gas_station.py">gas_station.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/13413">13413</a> | 오셀로 재배치 | <a href="./greedy/othello_relocation.py">othello_relocation.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/13417">13417</a> | 카드 문자열 | <a href="./greedy/card_string.py">card_string.py</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/13975">13975</a> | 파일 합치기 3 | <a href="./greedy/merge_files_3.py">merge_files_3.py</a> |
 |    <img src="https://static.solved.ac/tier_small/5.svg" width="20"></img>    | <a href="http://boj.kr/14659">14659</a> | 한조서열정리하고옴ㅋㅋ | <a href="./greedy/hanzo_pecking_order.py">hanzo_pecking_order.py</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/14720">14720</a> | 우유 축제 | <a href="./greedy/milk_festival.py">milk_festival.py</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/15904">15904</a> | UCPC는 무엇의 약자일까? | <a href="./greedy/what_is_abbreviation_of_UCPC.py">what_is_abbreviation_of_UCPC.py</a> |
