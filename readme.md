@@ -4,13 +4,13 @@
 |back_tracking|5|
 |binary_search|35|
 |bitmask|1|
-|brute_force|39|
-|data_structure|35|
+|brute_force|40|
+|data_structure|36|
 |dfs&bfs|99|
 |divide_and_conquer|28|
 |dynamic_programming|115|
 |geometry|1|
-|graph|42|
+|graph|43|
 |greedy|38|
 |implementation|90|
 |math|39|
@@ -24,7 +24,7 @@
 |tree|7|
 |two_pointer|22|
 |union-find|12|
-| **sum** | **861**|
+| **sum** | **864**|
 
 ## [LeetCode](./leetcode/)
 |    Algorithm    | solved |

@@ -101,6 +101,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/18111">18111</a> | 마인크래프트 | <a href="./brute_force/minecraft.py">minecraft.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/18290">18290</a> | NM과 K (1) | <a href="./brute_force/nm_and_k(1).py">nm_and_k(1).py</a> |
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/18312">18312</a> | 시각 | <a href="./brute_force/clock.py">clock.py</a> |
+|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/18429">18429</a> | 근손실 | <a href="./brute_force/muscle_loss.py">muscle_loss.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/21278">21278</a> | 호석이 두 마리 치킨 | <a href="./brute_force/hoseok_chicken.py">hoseok_chicken.py</a> |
 
 ---
@@ -143,6 +144,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/17298">17298</a> | 오큰수 | <a href="./data_structure/oh_keun_soo.py">oh_keun_soo.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/18115">18115</a> | 카드 놓기 | <a href="./data_structure/put_card.py">put_card.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/18870">18870</a> | 좌표 압축 | <a href="./data_structure/coordinate_compression.py">coordinate_compression.py</a> |
+|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/20920">20920</a> | 영단어 암기는 괴로워 | <a href="./data_structure/memorizing_words_is_difficult.py">memorizing_words_is_difficult.py</a> |
 
 ---
 
@@ -458,6 +460,7 @@
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/20010">20010</a> | 악덕 영주 혜유 | <a href="./graph/vice_lord.py">vice_lord.py</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/21276">21276</a> | 계보 복원가 호석 | <a href="./graph/ancestry_restoration.py">ancestry_restoration.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/21924">21924</a> | 도시 건설 | <a href="./graph/build_city.py">build_city.py</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/23743">23743</a> | 방탈출 | <a href="./graph/room_escape.py">room_escape.py</a> |
 
 ---
 
