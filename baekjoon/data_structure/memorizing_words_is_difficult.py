@@ -16,7 +16,7 @@ def main():
         counter[word] += 1
 
     lst = list(counter.items())
-    lst.sort(key=lambda x: (-x[1], len(x[0]), x[0]))
+    lst.sort(key=lambda x: (-x[1], -len(x[0]), x[0]))
 
     for word, _ in lst:
         print(word)

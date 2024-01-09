@@ -2,11 +2,11 @@
 |    Algorithm    | solved |
 | :-------------: | :----: |
 |back_tracking|5|
-|binary_search|35|
+|binary_search|36|
 |bitmask|1|
 |brute_force|40|
 |data_structure|36|
-|dfs&bfs|99|
+|dfs&bfs|100|
 |divide_and_conquer|28|
 |dynamic_programming|115|
 |geometry|1|
@@ -24,7 +24,7 @@
 |tree|7|
 |two_pointer|22|
 |union-find|12|
-| **sum** | **864**|
+| **sum** | **866**|
 
 ## [LeetCode](./leetcode/)
 |    Algorithm    | solved |

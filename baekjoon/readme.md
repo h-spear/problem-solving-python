@@ -20,6 +20,7 @@
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/1365">1365</a> | 꼬인 전깃줄 | <a href="./binary_search/twisted_wire.py">twisted_wire.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1477">1477</a> | 휴게소 세우기 | <a href="./binary_search/build_rest_area.py">build_rest_area.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1654">1654</a> | 랜선 자르기 | <a href="./binary_search/lan_line.py">lan_line.py</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/1800">1800</a> | 인터넷 설치 | <a href="./binary_search/internet_installation.py">internet_installation.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1939">1939</a> | 중량제한 | <a href="./binary_search/weight_limit.py">weight_limit.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/1940">1940</a> | 주몽 | <a href="./binary_search/jumong.py">jumong.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2110">2110</a> | 공유기 설치 | <a href="./dynamic_programming/setup_router.py">setup_router.py</a> |
@@ -189,6 +190,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/2644">2644</a> | 촌수계산 | <a href="./dfs&bfs/family_tree.py">family_tree.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2660">2660</a> | 회장뽑기 | <a href="./dfs&bfs/president_election.py">president_election.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/2667">2667</a> | 단지번호붙이기 | <a href="./dfs&bfs/complex_numbering.py">complex_numbering.py</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/3109">3109</a> | 빵집 | <a href="./dfs&bfs/bakery.py">bakery.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/3184">3184</a> | 양 | <a href="./dfs&bfs/sheep.py">sheep.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/3187">3187</a> | 양치기 꿍 | <a href="./dfs&bfs/shepherd.py">shepherd.py</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/3197">3197</a> | 백조의 호수 | <a href="./dfs&bfs/swan_lake.py">swan_lake.py</a> |
