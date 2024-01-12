@@ -8,12 +8,12 @@
 |data_structure|36|
 |dfs&bfs|100|
 |divide_and_conquer|28|
-|dynamic_programming|115|
+|dynamic_programming|116|
 |geometry|1|
 |graph|43|
 |greedy|38|
 |implementation|90|
-|math|39|
+|math|38|
 |network_flow|19|
 |prefix_sum|4|
 |samsung|50|
@@ -46,12 +46,12 @@
 |quick-select|1|
 |sorting|9|
 |stack|13|
-|string|38|
+|string|37|
 |tree|70|
 |trie|1|
 |two-pointer|18|
 |union-find|1|
-| **sum** | **461**|
+| **sum** | **460**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
@@ -61,7 +61,6 @@
 |level2|101|
 |level3|52|
 |level4|15|
-|level5|0|
 |pccp|8|
 | **sum** | **350**|
 
@@ -69,10 +68,8 @@
 |    Difficulty    | solved |
 | :-------------: | :----: |
 |D1|1|
-|D2|0|
 |D3|11|
 |D4|8|
 |D5|1|
-|D6|0|
 | **sum** | **21**|
 
