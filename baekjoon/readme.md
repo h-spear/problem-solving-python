@@ -326,6 +326,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2293">2293</a> | 동전 1 | <a href="./dynamic_programming/coin_1.py">coin_1.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2294">2294</a> | 동전 2 | <a href="./dynamic_programming/coin_2.py">coin_2.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/2302">2302</a> | 극장 좌석 | <a href="./dynamic_programming/theater_seats.py">theater_seats.py</a> |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2342">2342</a> | Dance Dance Revolution | <a href="./dynamic_programming/dance_dance_revolution.py">dance_dance_revolution.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/2407">2407</a> | 조합 | <a href="./dynamic_programming/combination.py">combination.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2410">2410</a> | 2의 멱수의 합 | <a href="./dynamic_programming/two_power_sum.py">two_power_sum.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/2491">2491</a> | 수열 | <a href="./dynamic_programming/array.py">array.py</a> |
@@ -984,6 +985,8 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/15565">15565</a> | 귀여운 라이언 | <a href="./two_pointer/cute_ryon.py">cute_ryon.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/17609">17609</a> | 회문 | <a href="./two_pointer/palindrome.py">palindrome.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/20922">20922</a> | 겹치는 건 싫어 | <a href="./two_pointer/hate_overlap.py">hate_overlap.py</a> |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/22857">22857</a> | 가장 긴 짝수 연속한 부분 수열 (small) | <a href="./two_pointer/longest_even_consecutive_subsequence_small.py">longest_even_consecutive_subsequence_small.py</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/22862">22862</a> | 가장 긴 짝수 연속한 부분 수열 (large) | <a href="./two_pointer/longest_even_consecutive_subsequence_large.py">longest_even_consecutive_subsequence_large.py</a> |
 
 ---
 

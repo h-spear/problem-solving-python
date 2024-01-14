@@ -22,9 +22,9 @@
 |sorting|16|
 |string|100|
 |tree|7|
-|two_pointer|22|
+|two_pointer|24|
 |union-find|12|
-| **sum** | **866**|
+| **sum** | **869**|
 
 ## [LeetCode](./leetcode/)
 |    Algorithm    | solved |
