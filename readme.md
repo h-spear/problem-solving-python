@@ -8,10 +8,10 @@
 |data_structure|36|
 |dfs&bfs|100|
 |divide_and_conquer|28|
-|dynamic_programming|116|
+|dynamic_programming|117|
 |geometry|1|
 |graph|43|
-|greedy|38|
+|greedy|39|
 |implementation|90|
 |math|38|
 |network_flow|19|
@@ -24,7 +24,7 @@
 |tree|7|
 |two_pointer|24|
 |union-find|12|
-| **sum** | **869**|
+| **sum** | **870**|
 
 ## [LeetCode](./leetcode/)
 |    Algorithm    | solved |

@@ -446,7 +446,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/6497">6497</a> | 전력난 | <a href="./graph/power_shortage.py">power_shortage.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/9372">9372</a> | 상근이의 여행 | <a href="./graph/sanggeuns_journey.py">sanggeuns_journey.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/9470">9470</a> | Strahler 순서 | <a href="./graph/strahler_order.py">strahler_order.py</a> |
-|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/10423">10423</a> | 전기가 부족해 | <a href="./graph/electricity_supply.py">electricity_supply.py</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/10423">10423</a> | 전기가 부족해 | <a href="./graph/electricity_supply.py">electricity_supply.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/10451">10451</a> | 순열 사이클 | <a href="./graph/permutation_cycle.py">permutation_cycle.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/11725">11725</a> | 트리의 부모 찾기 | <a href="./graph/tree_parent.py">tree_parent.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/13418">13418</a> | 학교 탐방하기 | <a href="./graph/school_explore.py">school_explore.py</a> |
@@ -487,6 +487,7 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/2012">2012</a> | 등수 매기기 | <a href="./greedy/ranking.py">ranking.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/2217">2217</a> | 로프 | <a href="./greedy/rope.py">rope.py</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/2720">2720</a> | 세탁소 사장 동혁 | <a href="./greedy/laundry_manager_donghyeok.py">laundry_manager_donghyeok.py</a> |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/2785">2785</a> | 체인 | <a href="./greedy/chain.py">chain.py</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/2828">2828</a> | 사과 담기 게임 | <a href="./greedy/apple_hold_game.py">apple_hold_game.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/2847">2847</a> | 게임을 만든 동준이 | <a href="./greedy/game_maker_dongjoon.py">game_maker_dongjoon.py</a> |
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/2864">2864</a> | 5와 6의 차이 | <a href="./greedy/difference_five_and_six.py">difference_five_and_six.py</a> |
