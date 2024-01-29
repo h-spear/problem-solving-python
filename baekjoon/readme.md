@@ -277,7 +277,7 @@
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/11443">11443</a> | 짝수번째 피보나치 수의 합 | <a href="./divide_and_conquer/sum_of_even_fibonacci_number.py">sum_of_even_fibonacci_number.py</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/11444">11444</a> | 피보나치 수 6 | <a href="./divide_and_conquer/fibonacci_number_6.py">fibonacci_number_6.py</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/11524">11524</a> | Immortal Porpoises | <a href="./divide_and_conquer/immortal_propoises.py">immortal_propoises.py</a> |
-|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/11778">11778</a> | 피보나치 수와 최대공약수 | <a href="./divide_and_conquer/fibonacci_number_and_greatest_common_factor.py">fibonacci_number_and_greatest_common_factor.py</a> |
+|    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/11778">11778</a> | 피보나치 수와 최대공약수 | <a href="./divide_and_conquer/fibonacci_number_and_greatest_common_factor.py">fibonacci_number_and_greatest_common_factor.py</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/12728">12728</a> | n제곱 계산 | <a href="./divide_and_conquer/calculate_n_squared.py">calculate_n_squared.py</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/13075">13075</a> | Fibonacci Sequence | <a href="./divide_and_conquer/fibonacci_sequence.py">fibonacci_sequence.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/13171">13171</a> | A | <a href="./divide_and_conquer/A.py">A.py</a> |
@@ -596,6 +596,7 @@
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/18406">18406</a> | 럭키 스트레이트 | <a href="./implementation/lucky_straight.py">lucky_straight.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/18808">18808</a> | 스티커 붙이기 | <a href="./implementation/stick_a_sticker.py">stick_a_sticker.py</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/18809">18809</a> | Gaaaaaaaaaarden | <a href="./implementation/Gaaaaaaaaaarden.py">Gaaaaaaaaaarden.py</a> |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/20006">20006</a> | 랭킹전 대기열 | <a href="./implementation/ranking_waiting_queue.py">ranking_waiting_queue.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/20164">20164</a> | 홀수 홀릭 호석 | <a href="./implementation/odd_holic_hoseok.py">odd_holic_hoseok.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/20165">20165</a> | 인내의 도미노 장인 호석 | <a href="./implementation/domino_master_hoseok.py">domino_master_hoseok.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/20291">20291</a> | 파일 정리 | <a href="./implementation/file_cleanup.py">file_cleanup.py</a> |

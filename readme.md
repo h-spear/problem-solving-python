@@ -12,7 +12,7 @@
 |geometry|1|
 |graph|43|
 |greedy|39|
-|implementation|90|
+|implementation|91|
 |math|38|
 |network_flow|19|
 |prefix_sum|4|
@@ -24,7 +24,7 @@
 |tree|7|
 |two_pointer|24|
 |union-find|12|
-| **sum** | **870**|
+| **sum** | **871**|
 
 ## [LeetCode](./leetcode/)
 |    Algorithm    | solved |
