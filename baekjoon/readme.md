@@ -139,6 +139,7 @@
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/11723">11723</a> | 집합 | <a href="./data_structure/set.py">set.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/12764">12764</a> | 싸지방에 간 준하 | <a href="./data_structure/joonha_went_to_ssajibang.py">joonha_went_to_ssajibang.py</a> |
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/13300">13300</a> | 방 배정 | <a href="./data_structure/room_assignment.py">room_assignment.py</a> |
+|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/13335">13335</a> | 트럭 | <a href="./data_structure/truck.py">truck.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/15903">15903</a> | 카드 합체 놀이 | <a href="./data_structure/card_union_game.py">card_union_game.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/16120">16120</a> | PPAP | <a href="./data_structure/ppap.py">ppap.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/17219">17219</a> | 비밀번호 찾기 | <a href="./data_structure/password.py">password.py</a> |

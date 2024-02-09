@@ -5,7 +5,7 @@
 |binary_search|36|
 |bitmask|1|
 |brute_force|40|
-|data_structure|36|
+|data_structure|37|
 |dfs&bfs|100|
 |divide_and_conquer|28|
 |dynamic_programming|117|
@@ -24,7 +24,7 @@
 |tree|7|
 |two_pointer|24|
 |union-find|12|
-| **sum** | **871**|
+| **sum** | **872**|
 
 ## [LeetCode](./leetcode/)
 |    Algorithm    | solved |
