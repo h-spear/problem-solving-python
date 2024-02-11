@@ -177,7 +177,7 @@
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2146">2146</a> | 다리 만들기 | <a href="./dfs&bfs/bridge.py">bridge.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2151">2151</a> | 거울 설치 | <a href="./dfs&bfs/mirror_installation.py">mirror_installation.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/2178">2178</a> | 미로 탐색 | <a href="./dfs&bfs/maze_2.py">maze_2.py</a> |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2194">2194</a> | 유닛 이동시키기 | <a href="./dfs&bfs/unit_move.py">unit_move.py</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2194">2194</a> | 유닛 이동시키기 | <a href="./dfs&bfs/unit_move.py">unit_move.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2206">2206</a> | 벽 부수고 이동하기 | <a href="./dfs&bfs/crash_wall.py">crash_wall.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/2210">2210</a> | 숫자판 점프 | <a href="./dfs&bfs/number_board_jump.py">number_board_jump.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2234">2234</a> | 성곽 | <a href="./dfs&bfs/castle.py">castle.py</a> |
@@ -632,6 +632,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2981">2981</a> | 검문 | <a href="./math/checkpoint.py">checkpoint.py</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/3053">3053</a> | 택시 기하학 | <a href="./math/taxicab_geometry.py">taxicab_geometry.py</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/4153">4153</a> | 직각삼각형 | <a href="./math/right_triangle.py">right_triangle.py</a> |
+|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/4375">4375</a> | 1 | <a href="./math/1.py">1.py</a> |
 |    <img src="https://static.solved.ac/tier_small/2.svg" width="20"></img>    | <a href="http://boj.kr/5543">5543</a> | 상근날드 | <a href="./math/sanggeunnald.py">sanggeunnald.py</a> |
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/5618">5618</a> | 공약수 | <a href="./math/common_factor.py">common_factor.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/6064">6064</a> | 카잉 달력 | <a href="./math/kaing_calender.py">kaing_calender.py</a> |
@@ -996,15 +997,15 @@
 ### Union Find
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
-|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1043">1043</a> | 거짓말 | <a href="./union-find/lie.py">lie.py</a> |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1717">1717</a> | 집합의 표현 | <a href="./union-find/set_representation.py">set_representation.py</a> |
-|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1976">1976</a> | 여행 가자 | <a href="./union-find/lets_travel.py">lets_travel.py</a> |
-|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/4195">4195</a> | 친구 네트워크 | <a href="./union-find/friend_network.py">friend_network.py</a> |
-|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/4803">4803</a> | 트리 | <a href="./union-find/tree.py">tree.py</a> |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/7511">7511</a> | 소셜 네트워킹 어플리케이션 | <a href="./union-find/social_networking_application.py">social_networking_application.py</a> |
-|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/10775">10775</a> | 공항 | <a href="./union-find/airplane.py">airplane.py</a> |
-|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/16562">16562</a> | 친구비 | <a href="./union-find/friend_price.py">friend_price.py</a> |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/17352">17352</a> | 여러분의 다리가 되어 드리겠습니다! | <a href="./union-find/bridge.py">bridge.py</a> |
-|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/17490">17490</a> | 일감호에 다리 놓기 | <a href="./union-find/bridge_on_ilgamho.py">bridge_on_ilgamho.py</a> |
-|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/18116">18116</a> | 로봇 조립 | <a href="./union-find/robot_assembly.py">robot_assembly.py</a> |
-|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/20040">20040</a> | 사이클 게임 | <a href="./union-find/cycle_game.py">cycle_game.py</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1043">1043</a> | 거짓말 | <a href="./union_find/lie.py">lie.py</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1717">1717</a> | 집합의 표현 | <a href="./union_find/set_representation.py">set_representation.py</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1976">1976</a> | 여행 가자 | <a href="./union_find/lets_travel.py">lets_travel.py</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/4195">4195</a> | 친구 네트워크 | <a href="./union_find/friend_network.py">friend_network.py</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/4803">4803</a> | 트리 | <a href="./union_find/tree.py">tree.py</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/7511">7511</a> | 소셜 네트워킹 어플리케이션 | <a href="./union_find/social_networking_application.py">social_networking_application.py</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/10775">10775</a> | 공항 | <a href="./union_find/airplane.py">airplane.py</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/16562">16562</a> | 친구비 | <a href="./union_find/friend_price.py">friend_price.py</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/17352">17352</a> | 여러분의 다리가 되어 드리겠습니다! | <a href="./union_find/bridge.py">bridge.py</a> |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/17490">17490</a> | 일감호에 다리 놓기 | <a href="./union_find/bridge_on_ilgamho.py">bridge_on_ilgamho.py</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/18116">18116</a> | 로봇 조립 | <a href="./union_find/robot_assembly.py">robot_assembly.py</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/20040">20040</a> | 사이클 게임 | <a href="./union_find/cycle_game.py">cycle_game.py</a> |

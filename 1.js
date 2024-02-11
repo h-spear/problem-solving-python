@@ -8,6 +8,31 @@ const programmers_dir = './programmers';
 const leetcode_dir = './leetcode';
 const swacademy_dir = './sw_expert_academy';
 const note_dir = './my_note';
+const algMap = {
+    back_tracking: 'Back Tracking',
+    binary_search: 'Binary Search',
+    bitmask: 'Bitmask',
+    brute_force: 'Bruteforce',
+    data_structure: 'Data Structure',
+    'dfs&bfs': 'DFS & BFS',
+    divide_and_conquer: 'Divide and Conquer',
+    dynamic_programming: 'Dynamic Programming',
+    geometry: 'Geometry',
+    graph: 'Graph',
+    greedy: 'Greedy',
+    implementation: 'Implementation',
+    math: 'Math',
+    network_flow: 'Network Flow',
+    prefix_sum: 'Prefix Sum',
+    samsung: 'Samsung',
+    segment_tree: 'Segment Tree',
+    shortest_path: 'Shortest Path',
+    sorting: 'Sorting',
+    string: 'String',
+    tree: 'Tree',
+    two_pointer: 'Two Pointer',
+    union_find: 'Union Find',
+};
 
 const result = {
     baekjoon: [],
@@ -43,7 +68,10 @@ fs.readdirSync(baekjoon_dir, { withFileTypes: true }).forEach((p) => {
     if (!check_condition(p)) {
         return;
     }
-    result['baekjoon'].push({ name, length: fs.readdirSync(path).length });
+    result['baekjoon'].push({
+        name: algMap[name],
+        length: fs.readdirSync(path).length,
+    });
 });
 
 // programmers

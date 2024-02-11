@@ -1,30 +1,30 @@
 ## [BAEKJOON](./baekjoon/) 
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|back_tracking|5|
-|binary_search|36|
-|bitmask|1|
-|brute_force|40|
-|data_structure|37|
-|dfs&bfs|100|
-|divide_and_conquer|28|
-|dynamic_programming|117|
-|geometry|1|
-|graph|43|
-|greedy|39|
-|implementation|91|
-|math|38|
-|network_flow|19|
-|prefix_sum|4|
-|samsung|50|
-|segment_tree|13|
-|shortest_path|51|
-|sorting|16|
-|string|100|
-|tree|7|
-|two_pointer|24|
-|union-find|12|
-| **sum** | **872**|
+|Back Tracking|5|
+|Binary Search|36|
+|Bitmask|1|
+|Bruteforce|40|
+|Data Structure|37|
+|DFS & BFS|100|
+|Divide and Conquer|28|
+|Dynamic Programming|117|
+|Geometry|1|
+|Graph|43|
+|Greedy|39|
+|Implementation|91|
+|Math|39|
+|Network Flow|19|
+|Prefix Sum|4|
+|Samsung|50|
+|Segment Tree|13|
+|Shortest Path|51|
+|Sorting|16|
+|String|100|
+|Tree|7|
+|Two Pointer|24|
+|Union Find|12|
+| **sum** | **873**|
 
 ## [LeetCode](./leetcode/)
 |    Algorithm    | solved |
@@ -46,12 +46,12 @@
 |quick-select|1|
 |sorting|9|
 |stack|13|
-|string|37|
+|string|38|
 |tree|70|
 |trie|1|
 |two-pointer|18|
 |union-find|1|
-| **sum** | **460**|
+| **sum** | **461**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
@@ -61,6 +61,7 @@
 |level2|101|
 |level3|52|
 |level4|15|
+|level5|0|
 |pccp|8|
 | **sum** | **350**|
 
@@ -68,8 +69,10 @@
 |    Difficulty    | solved |
 | :-------------: | :----: |
 |D1|1|
+|D2|0|
 |D3|11|
 |D4|8|
 |D5|1|
+|D6|0|
 | **sum** | **21**|
 

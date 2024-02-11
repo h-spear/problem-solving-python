@@ -25,7 +25,7 @@ const algMap = {
     string: 'String',
     tree: 'Tree',
     two_pointer: 'Two Pointer',
-    'union-find': 'Union Find',
+    union_find: 'Union Find',
 };
 const bojLevelUrlPrefix = 'https://static.solved.ac/tier_small/';
 const bojLevelUrlSuffix = '.svg';
