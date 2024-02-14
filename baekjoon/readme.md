@@ -57,6 +57,7 @@
 ### Bitmask
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/2961">2961</a> | 도영이가 만든 맛있는 음식 | <a href="./bitmask/delicious_food_made_by_doyoung.py">delicious_food_made_by_doyoung.py</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/11723">11723</a> | 집합 | <a href="./data_structure/set.py">set.py</a> |
 
 ---
