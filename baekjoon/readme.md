@@ -487,6 +487,7 @@
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/1789">1789</a> | 수들의 합 | <a href="./greedy/sum_of_nums.py">sum_of_nums.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1946">1946</a> | 신입 사원 | <a href="./greedy/new_recruits.py">new_recruits.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/2012">2012</a> | 등수 매기기 | <a href="./greedy/ranking.py">ranking.py</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2138">2138</a> | 전구와 스위치 | <a href="./greedy/bulb_and_switch.py">bulb_and_switch.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/2217">2217</a> | 로프 | <a href="./greedy/rope.py">rope.py</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/2720">2720</a> | 세탁소 사장 동혁 | <a href="./greedy/laundry_manager_donghyeok.py">laundry_manager_donghyeok.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/2785">2785</a> | 체인 | <a href="./greedy/chain.py">chain.py</a> |
@@ -574,7 +575,7 @@
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/10996">10996</a> | 별 찍기 - 21 | <a href="./implementation/star_21.py">star_21.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/10997">10997</a> | 별 찍기 - 22 | <a href="./implementation/star_22.py">star_22.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/11559">11559</a> | Puyo Puyo | <a href="./implementation/puyo_puyo.py">puyo_puyo.py</a> |
-|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/12933">12933</a> | 오리 | <a href="./implementation/duck.py">duck.py</a> |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/12933">12933</a> | 오리 | <a href="./implementation/duck.py">duck.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/13015">13015</a> | 별 찍기 - 23 | <a href="./implementation/star_23.py">star_23.py</a> |
 |    <img src="https://static.solved.ac/tier_small/5.svg" width="20"></img>    | <a href="http://boj.kr/14467">14467</a> | 소가 길을 건너간 이유 1 | <a href="./implementation/cow_cross_road.py">cow_cross_road.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14719">14719</a> | 빗물 | <a href="./implementation/rainwater.py">rainwater.py</a> |
