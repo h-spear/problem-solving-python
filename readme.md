@@ -5,7 +5,7 @@
 |Binary Search|36|
 |Bitmask|2|
 |Bruteforce|40|
-|Data Structure|37|
+|Data Structure|38|
 |DFS & BFS|100|
 |Divide and Conquer|28|
 |Dynamic Programming|117|
@@ -19,12 +19,12 @@
 |Samsung|50|
 |Segment Tree|13|
 |Shortest Path|51|
-|Sorting|16|
+|Sorting|17|
 |String|100|
 |Tree|7|
 |Two Pointer|24|
 |Union Find|12|
-| **sum** | **875**|
+| **sum** | **877**|
 
 ## [LeetCode](./leetcode/)
 |    Algorithm    | solved |
