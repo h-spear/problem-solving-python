@@ -74,6 +74,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1182">1182</a> | 부분수열의 합 | <a href="./brute_force/sum_of_subsequence.py">sum_of_subsequence.py</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/1436">1436</a> | 영화감독 숌 | <a href="./brute_force/movie_director.py">movie_director.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1527">1527</a> | 금민수의 개수 | <a href="./brute_force/geum_minsu.py">geum_minsu.py</a> |
+|    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/1544">1544</a> | 사이클 단어 | <a href="./brute_force/cycle_word.py">cycle_word.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/1748">1748</a> | 수 이어 쓰기 1 | <a href="./brute_force/write_number_sequently.py">write_number_sequently.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/1969">1969</a> | DNA | <a href="./brute_force/dna.py">dna.py</a> |
 |    <img src="https://static.solved.ac/tier_small/5.svg" width="20"></img>    | <a href="http://boj.kr/2309">2309</a> | 일곱 난쟁이 | <a href="./brute_force/seven_dwarfs.py">seven_dwarfs.py</a> |
@@ -601,7 +602,7 @@
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/18406">18406</a> | 럭키 스트레이트 | <a href="./implementation/lucky_straight.py">lucky_straight.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/18808">18808</a> | 스티커 붙이기 | <a href="./implementation/stick_a_sticker.py">stick_a_sticker.py</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/18809">18809</a> | Gaaaaaaaaaarden | <a href="./implementation/Gaaaaaaaaaarden.py">Gaaaaaaaaaarden.py</a> |
-|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/20006">20006</a> | 랭킹전 대기열 | <a href="./implementation/ranking_waiting_queue.py">ranking_waiting_queue.py</a> |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/20006">20006</a> | 랭킹전 대기열 | <a href="./implementation/ranking_waiting_queue.py">ranking_waiting_queue.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/20164">20164</a> | 홀수 홀릭 호석 | <a href="./implementation/odd_holic_hoseok.py">odd_holic_hoseok.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/20165">20165</a> | 인내의 도미노 장인 호석 | <a href="./implementation/domino_master_hoseok.py">domino_master_hoseok.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/20291">20291</a> | 파일 정리 | <a href="./implementation/file_cleanup.py">file_cleanup.py</a> |

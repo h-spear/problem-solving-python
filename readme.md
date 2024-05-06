@@ -4,7 +4,7 @@
 |Back Tracking|5|
 |Binary Search|36|
 |Bitmask|2|
-|Bruteforce|40|
+|Bruteforce|41|
 |Data Structure|39|
 |DFS & BFS|100|
 |Divide and Conquer|28|
@@ -24,7 +24,7 @@
 |Tree|7|
 |Two Pointer|24|
 |Union Find|12|
-| **sum** | **878**|
+| **sum** | **879**|
 
 ## [LeetCode](./leetcode/)
 |    Algorithm    | solved |
