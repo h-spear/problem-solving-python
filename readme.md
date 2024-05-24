@@ -12,8 +12,8 @@
 |Geometry|1|
 |Graph|43|
 |Greedy|40|
-|Implementation|91|
-|Math|39|
+|Implementation|92|
+|Math|38|
 |Network Flow|19|
 |Prefix Sum|4|
 |Samsung|50|
@@ -46,12 +46,12 @@
 |quick-select|1|
 |sorting|9|
 |stack|13|
-|string|38|
+|string|37|
 |tree|70|
 |trie|1|
 |two-pointer|18|
 |union-find|1|
-| **sum** | **461**|
+| **sum** | **460**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
@@ -61,7 +61,6 @@
 |level2|101|
 |level3|52|
 |level4|15|
-|level5|0|
 |pccp|8|
 | **sum** | **350**|
 
@@ -69,10 +68,8 @@
 |    Difficulty    | solved |
 | :-------------: | :----: |
 |D1|1|
-|D2|0|
 |D3|11|
 |D4|8|
 |D5|1|
-|D6|0|
 | **sum** | **21**|
 
