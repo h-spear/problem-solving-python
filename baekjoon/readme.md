@@ -611,6 +611,7 @@
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/20546">20546</a> | 🐜 기적의 매매법 🐜 | <a href="./implementation/miracle_trading.py">miracle_trading.py</a> |
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/21756">21756</a> | 지우개 | <a href="./implementation/eraser.py">eraser.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/25758">25758</a> | 유전자 조합 | <a href="./implementation/genetic_combination.py">genetic_combination.py</a> |
+|    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/31866">31866</a> | 손가락 게임 | <a href="./implementation/finger_game.py">finger_game.py</a> |
 |    <img src="https://static.solved.ac/tier_small/0.svg" width="20"></img>    | <a href="http://boj.kr/60059">60059</a> |  | <a href="./implementation/lock_and_key.py">lock_and_key.py</a> |
 |    <img src="https://static.solved.ac/tier_small/0.svg" width="20"></img>    | <a href="http://boj.kr/60061">60061</a> |  | <a href="./implementation/columns_and_beams.py">columns_and_beams.py</a> |
 |    <img src="https://static.solved.ac/tier_small/0.svg" width="20"></img>    | <a href="http://boj.kr/60062">60062</a> |  | <a href="./implementation/outer_wall_check.py">outer_wall_check.py</a> |
@@ -638,6 +639,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2981">2981</a> | 검문 | <a href="./math/checkpoint.py">checkpoint.py</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/3053">3053</a> | 택시 기하학 | <a href="./math/taxicab_geometry.py">taxicab_geometry.py</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/4153">4153</a> | 직각삼각형 | <a href="./math/right_triangle.py">right_triangle.py</a> |
+|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/4375">4375</a> | 1 | <a href="./math/1.py">1.py</a> |
 |    <img src="https://static.solved.ac/tier_small/2.svg" width="20"></img>    | <a href="http://boj.kr/5543">5543</a> | 상근날드 | <a href="./math/sanggeunnald.py">sanggeunnald.py</a> |
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/5618">5618</a> | 공약수 | <a href="./math/common_factor.py">common_factor.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/6064">6064</a> | 카잉 달력 | <a href="./math/kaing_calender.py">kaing_calender.py</a> |
@@ -712,7 +714,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14503">14503</a> | 로봇 청소기 | <a href="./samsung/robot_cleaner.py">robot_cleaner.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/14888">14888</a> | 연산자 끼워넣기 | <a href="./samsung/operator_interleaving.py">operator_interleaving.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/14889">14889</a> | 스타트와 링크 | <a href="./samsung/start_and_link.py">start_and_link.py</a> |
-|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/14890">14890</a> | 경사로 | <a href="./samsung/ramp.py">ramp.py</a> |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/14890">14890</a> | 경사로 | <a href="./samsung/ramp.py">ramp.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14891">14891</a> | 톱니바퀴 | <a href="./samsung/gear.py">gear.py</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/15644">15644</a> | 구슬 탈출 3 | <a href="./samsung/bead_escape_3.py">bead_escape_3.py</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/15653">15653</a> | 구슬 탈출 4 | <a href="./samsung/bead_escape_4.py">bead_escape_4.py</a> |
