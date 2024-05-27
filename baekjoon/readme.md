@@ -263,7 +263,7 @@
 ### Divide and Conquer
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
-|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1074">1074</a> | Z | <a href="./divide_and_conquer/Z.py">Z.py</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1074">1074</a> | Z | <a href="./divide_and_conquer/Z.py">Z.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1629">1629</a> | 곱셈 | <a href="./divide_and_conquer/big_multiplication.py">big_multiplication.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1992">1992</a> | 쿼드트리 | <a href="./divide_and_conquer/quad_tree.py">quad_tree.py</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/2086">2086</a> | 피보나치 수의 합 | <a href="./divide_and_conquer/sum_of_fibonacci_numbers.py">sum_of_fibonacci_numbers.py</a> |
@@ -639,7 +639,6 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2981">2981</a> | 검문 | <a href="./math/checkpoint.py">checkpoint.py</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/3053">3053</a> | 택시 기하학 | <a href="./math/taxicab_geometry.py">taxicab_geometry.py</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/4153">4153</a> | 직각삼각형 | <a href="./math/right_triangle.py">right_triangle.py</a> |
-|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/4375">4375</a> | 1 | <a href="./math/1.py">1.py</a> |
 |    <img src="https://static.solved.ac/tier_small/2.svg" width="20"></img>    | <a href="http://boj.kr/5543">5543</a> | 상근날드 | <a href="./math/sanggeunnald.py">sanggeunnald.py</a> |
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/5618">5618</a> | 공약수 | <a href="./math/common_factor.py">common_factor.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/6064">6064</a> | 카잉 달력 | <a href="./math/kaing_calender.py">kaing_calender.py</a> |
@@ -999,6 +998,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/20922">20922</a> | 겹치는 건 싫어 | <a href="./two_pointer/hate_overlap.py">hate_overlap.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/22857">22857</a> | 가장 긴 짝수 연속한 부분 수열 (small) | <a href="./two_pointer/longest_even_consecutive_subsequence_small.py">longest_even_consecutive_subsequence_small.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/22862">22862</a> | 가장 긴 짝수 연속한 부분 수열 (large) | <a href="./two_pointer/longest_even_consecutive_subsequence_large.py">longest_even_consecutive_subsequence_large.py</a> |
+|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/31869">31869</a> | 선배님 밥 사주세요! | <a href="./two_pointer/please_buy_me_meal.py">please_buy_me_meal.py</a> |
 
 ---
 
