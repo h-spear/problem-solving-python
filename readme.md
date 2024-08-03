@@ -23,9 +23,9 @@
 |Sorting|17|
 |String|100|
 |Tree|7|
-|Two Pointer|25|
+|Two Pointer|26|
 |Union Find|12|
-| **sum** | **883**|
+| **sum** | **884**|
 
 ## [LeetCode](./leetcode/)
 |    Algorithm    | solved |

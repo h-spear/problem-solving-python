@@ -1006,6 +1006,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/20922">20922</a> | 겹치는 건 싫어 | <a href="./two_pointer/hate_overlap.py">hate_overlap.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/22857">22857</a> | 가장 긴 짝수 연속한 부분 수열 (small) | <a href="./two_pointer/longest_even_consecutive_subsequence_small.py">longest_even_consecutive_subsequence_small.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/22862">22862</a> | 가장 긴 짝수 연속한 부분 수열 (large) | <a href="./two_pointer/longest_even_consecutive_subsequence_large.py">longest_even_consecutive_subsequence_large.py</a> |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/30804">30804</a> | 과일 탕후루 | <a href="./two_pointer/fruit_tanghulu.py">fruit_tanghulu.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/31869">31869</a> | 선배님 밥 사주세요! | <a href="./two_pointer/please_buy_me_meal.py">please_buy_me_meal.py</a> |
 
 ---
