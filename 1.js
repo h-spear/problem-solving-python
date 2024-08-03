@@ -32,6 +32,7 @@ const algMap = {
     tree: 'Tree',
     two_pointer: 'Two Pointer',
     union_find: 'Union Find',
+    scc: 'Strongly Connected Component',
 };
 
 const result = {

@@ -26,6 +26,7 @@ const algMap = {
     tree: 'Tree',
     two_pointer: 'Two Pointer',
     union_find: 'Union Find',
+    scc: 'Strongly Connected Component',
 };
 const bojLevelUrlPrefix = 'https://static.solved.ac/tier_small/';
 const bojLevelUrlSuffix = '.svg';
