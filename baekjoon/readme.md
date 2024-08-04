@@ -758,6 +758,7 @@
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/1217">1217</a> | 하우스 M.D. | <a href="./scc/house_md.py">house_md.py</a> |
+|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/15203">15203</a> | Police Station | <a href="./scc/police_station.py">police_station.py</a> |
 
 ---
 
