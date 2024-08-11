@@ -316,7 +316,7 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/1904">1904</a> | 01타일 | <a href="./dynamic_programming/0-1tile.py">0-1tile.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1912">1912</a> | 연속합 | <a href="./dynamic_programming/continuous_sum.py">continuous_sum.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1915">1915</a> | 가장 큰 정사각형 | <a href="./dynamic_programming/largest_square.py">largest_square.py</a> |
-|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1932">1932</a> | 정수 삼각형 | <a href="./dynamic_programming/integer_triangle.py">integer_triangle.py</a> |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1932">1932</a> | 정수 삼각형 | <a href="./dynamic_programming/integer_triangle.py">integer_triangle.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1937">1937</a> | 욕심쟁이 판다 | <a href="./dynamic_programming/greedy_panda.py">greedy_panda.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1958">1958</a> | LCS 3 | <a href="./dynamic_programming/LCS_3.py">LCS_3.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1965">1965</a> | 상자넣기 | <a href="./dynamic_programming/put_box.py">put_box.py</a> |
@@ -568,7 +568,7 @@
 |    <img src="https://static.solved.ac/tier_small/1.svg" width="20"></img>    | <a href="http://boj.kr/10699">10699</a> | 오늘 날짜 | <a href="./implementation/datetime.py">datetime.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/10703">10703</a> | 유성 | <a href="./implementation/meteor.py">meteor.py</a> |
 |    <img src="https://static.solved.ac/tier_small/5.svg" width="20"></img>    | <a href="http://boj.kr/10798">10798</a> | 세로읽기 | <a href="./implementation/read_vertically.py">read_vertically.py</a> |
-|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/10836">10836</a> | 여왕벌 | <a href="./implementation/queen_bee.py">queen_bee.py</a> |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/10836">10836</a> | 여왕벌 | <a href="./implementation/queen_bee.py">queen_bee.py</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/10990">10990</a> | 별 찍기 - 15 | <a href="./implementation/star_15.py">star_15.py</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/10991">10991</a> | 별 찍기 - 16 | <a href="./implementation/star_16.py">star_16.py</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/10992">10992</a> | 별 찍기 - 17 | <a href="./implementation/star_17.py">star_17.py</a> |
@@ -758,6 +758,7 @@
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/1217">1217</a> | 하우스 M.D. | <a href="./scc/house_md.py">house_md.py</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/2416">2416</a> | 문 | <a href="./scc/door.py">door.py</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/15203">15203</a> | Police Station | <a href="./scc/police_station.py">police_station.py</a> |
 
 ---

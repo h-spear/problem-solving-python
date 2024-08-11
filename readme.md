@@ -17,7 +17,7 @@
 |Network Flow|19|
 |Prefix Sum|4|
 |Samsung|50|
-|Strongly Connected Component|2|
+|Strongly Connected Component|3|
 |Segment Tree|13|
 |Shortest Path|51|
 |Sorting|17|
@@ -25,7 +25,7 @@
 |Tree|7|
 |Two Pointer|26|
 |Union Find|12|
-| **sum** | **885**|
+| **sum** | **886**|
 
 ## [LeetCode](./leetcode/)
 |    Algorithm    | solved |
