@@ -26,7 +26,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2110">2110</a> | 공유기 설치 | <a href="./dynamic_programming/setup_router.py">setup_router.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2110">2110</a> | 공유기 설치 | <a href="./dynamic_programming/setup_router.py">setup_router.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2143">2143</a> | 두 배열의 합 | <a href="./binary_search/sum_of_two_arrays.py">sum_of_two_arrays.py</a> |
-|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/2343">2343</a> | 기타 레슨 | <a href="./binary_search/guitar_lesson.py">guitar_lesson.py</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2343">2343</a> | 기타 레슨 | <a href="./binary_search/guitar_lesson.py">guitar_lesson.py</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/2352">2352</a> | 반도체 설계 | <a href="./binary_search/semiconductor_design.py">semiconductor_design.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/2417">2417</a> | 정수 제곱근 | <a href="./binary_search/integer_square_root.py">integer_square_root.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2470">2470</a> | 두 용액 | <a href="./binary_search/two_solution.py">two_solution.py</a> |
@@ -40,7 +40,7 @@
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/3066">3066</a> | 브리징 시그널 | <a href="./binary_search/bridging_signal.py">bridging_signal.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/3079">3079</a> | 입국심사 | <a href="./binary_search/immigration.py">immigration.py</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/3745">3745</a> | 오름세 | <a href="./binary_search/rising.py">rising.py</a> |
-|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/6236">6236</a> | 용돈 관리 | <a href="./binary_search/pocket_money_management.py">pocket_money_management.py</a> |
+|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/6236">6236</a> | 용돈 관리 | <a href="./binary_search/pocket_money_management.py">pocket_money_management.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/7795">7795</a> | 먹을 것인가 먹힐 것인가 | <a href="./binary_search/eat_or_get_eaten.py">eat_or_get_eaten.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/8983">8983</a> | 사냥꾼 | <a href="./binary_search/hunter.py">hunter.py</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/10815">10815</a> | 숫자 카드 | <a href="./binary_search/number_card.py">number_card.py</a> |
@@ -65,12 +65,12 @@
 ### Bruteforce
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
-|    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/1018">1018</a> | 체스판 다시 칠하기 | <a href="./brute_force/chessboard_repaint.py">chessboard_repaint.py</a> |
+|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/1018">1018</a> | 체스판 다시 칠하기 | <a href="./brute_force/chessboard_repaint.py">chessboard_repaint.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1038">1038</a> | 감소하는 수 | <a href="./brute_force/decreasing_number.py">decreasing_number.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/1051">1051</a> | 숫자 정사각형 | <a href="./brute_force/number_square.py">number_square.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/1057">1057</a> | 토너먼트 | <a href="./brute_force/tournament.py">tournament.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1062">1062</a> | 가르침 | <a href="./brute_force/teaching.py">teaching.py</a> |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1107">1107</a> | 리모컨 | <a href="./brute_force/remote_control.py">remote_control.py</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1107">1107</a> | 리모컨 | <a href="./brute_force/remote_control.py">remote_control.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1182">1182</a> | 부분수열의 합 | <a href="./brute_force/sum_of_subsequence.py">sum_of_subsequence.py</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/1436">1436</a> | 영화감독 숌 | <a href="./brute_force/movie_director.py">movie_director.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1527">1527</a> | 금민수의 개수 | <a href="./brute_force/geum_minsu.py">geum_minsu.py</a> |
@@ -105,7 +105,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/18290">18290</a> | NM과 K (1) | <a href="./brute_force/nm_and_k(1).py">nm_and_k(1).py</a> |
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/18312">18312</a> | 시각 | <a href="./brute_force/clock.py">clock.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/18429">18429</a> | 근손실 | <a href="./brute_force/muscle_loss.py">muscle_loss.py</a> |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/21278">21278</a> | 호석이 두 마리 치킨 | <a href="./brute_force/hoseok_chicken.py">hoseok_chicken.py</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/21278">21278</a> | 호석이 두 마리 치킨 | <a href="./brute_force/hoseok_chicken.py">hoseok_chicken.py</a> |
 
 ---
 
@@ -225,7 +225,7 @@
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/14442">14442</a> | 벽 부수고 이동하기 2 | <a href="./dfs&bfs/crash_wall_2.py">crash_wall_2.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/14496">14496</a> | 그대, 그머가 되어 | <a href="./dfs&bfs/yaminjeongeum.py">yaminjeongeum.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/14716">14716</a> | 현수막 | <a href="./dfs&bfs/banner.py">banner.py</a> |
-|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/14923">14923</a> | 미로 탈출 | <a href="./dfs&bfs/maze_escape.py">maze_escape.py</a> |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/14923">14923</a> | 미로 탈출 | <a href="./dfs&bfs/maze_escape.py">maze_escape.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/14940">14940</a> | 쉬운 최단거리 | <a href="./dfs&bfs/easy_shortest_distance.py">easy_shortest_distance.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/15558">15558</a> | 점프 게임 | <a href="./dfs&bfs/jump_game.py">jump_game.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/16174">16174</a> | 점프왕 쩰리 (Large) | <a href="./dfs&bfs/jump_king_JJelly.py">jump_king_JJelly.py</a> |
@@ -263,7 +263,7 @@
 ### Divide and Conquer
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
-|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1074">1074</a> | Z | <a href="./divide_and_conquer/Z.py">Z.py</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1074">1074</a> | Z | <a href="./divide_and_conquer/Z.py">Z.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1629">1629</a> | 곱셈 | <a href="./divide_and_conquer/big_multiplication.py">big_multiplication.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1992">1992</a> | 쿼드트리 | <a href="./divide_and_conquer/quad_tree.py">quad_tree.py</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/2086">2086</a> | 피보나치 수의 합 | <a href="./divide_and_conquer/sum_of_fibonacci_numbers.py">sum_of_fibonacci_numbers.py</a> |
@@ -308,7 +308,7 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/1463">1463</a> | 1로 만들기 | <a href="./dynamic_programming/make_one_2.py">make_one_2.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1495">1495</a> | 기타리스트 | <a href="./dynamic_programming/guitarist.py">guitarist.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1535">1535</a> | 안녕 | <a href="./dynamic_programming/hello.py">hello.py</a> |
-|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1660">1660</a> | 캡틴 이다솜 | <a href="./dynamic_programming/captain_leedasom.py">captain_leedasom.py</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1660">1660</a> | 캡틴 이다솜 | <a href="./dynamic_programming/captain_leedasom.py">captain_leedasom.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1699">1699</a> | 제곱수의 합 | <a href="./dynamic_programming/sum_of_squares.py">sum_of_squares.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/1788">1788</a> | 피보나치 수의 확장 | <a href="./dynamic_programming/fibonacci_extension.py">fibonacci_extension.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1793">1793</a> | 타일링 | <a href="./dynamic_programming/tiling_3.py">tiling_3.py</a> |
@@ -316,7 +316,7 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/1904">1904</a> | 01타일 | <a href="./dynamic_programming/0-1tile.py">0-1tile.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1912">1912</a> | 연속합 | <a href="./dynamic_programming/continuous_sum.py">continuous_sum.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1915">1915</a> | 가장 큰 정사각형 | <a href="./dynamic_programming/largest_square.py">largest_square.py</a> |
-|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1932">1932</a> | 정수 삼각형 | <a href="./dynamic_programming/integer_triangle.py">integer_triangle.py</a> |
+|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1932">1932</a> | 정수 삼각형 | <a href="./dynamic_programming/integer_triangle.py">integer_triangle.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1937">1937</a> | 욕심쟁이 판다 | <a href="./dynamic_programming/greedy_panda.py">greedy_panda.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1958">1958</a> | LCS 3 | <a href="./dynamic_programming/LCS_3.py">LCS_3.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1965">1965</a> | 상자넣기 | <a href="./dynamic_programming/put_box.py">put_box.py</a> |
@@ -328,9 +328,9 @@
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/2167">2167</a> | 2차원 배열의 합 | <a href="./dynamic_programming/two_dimensional_array.py">two_dimensional_array.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/2193">2193</a> | 이친수 | <a href="./dynamic_programming/pinary_number.py">pinary_number.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2225">2225</a> | 합분해 | <a href="./dynamic_programming/decompose.py">decompose.py</a> |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2293">2293</a> | 동전 1 | <a href="./dynamic_programming/coin_1.py">coin_1.py</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2293">2293</a> | 동전 1 | <a href="./dynamic_programming/coin_1.py">coin_1.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2294">2294</a> | 동전 2 | <a href="./dynamic_programming/coin_2.py">coin_2.py</a> |
-|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/2302">2302</a> | 극장 좌석 | <a href="./dynamic_programming/theater_seats.py">theater_seats.py</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2302">2302</a> | 극장 좌석 | <a href="./dynamic_programming/theater_seats.py">theater_seats.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2342">2342</a> | Dance Dance Revolution | <a href="./dynamic_programming/dance_dance_revolution.py">dance_dance_revolution.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/2407">2407</a> | 조합 | <a href="./dynamic_programming/combination.py">combination.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2410">2410</a> | 2의 멱수의 합 | <a href="./dynamic_programming/two_power_sum.py">two_power_sum.py</a> |
@@ -378,7 +378,7 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/11726">11726</a> | 2×n 타일링 | <a href="./dynamic_programming/tiling.py">tiling.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/11727">11727</a> | 2×n 타일링 2 | <a href="./dynamic_programming/tiling_2.py">tiling_2.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/12026">12026</a> | BOJ 거리 | <a href="./dynamic_programming/boj_distance.py">boj_distance.py</a> |
-|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/12852">12852</a> | 1로 만들기 2 | <a href="./dynamic_programming/make_one_3.py">make_one_3.py</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/12852">12852</a> | 1로 만들기 2 | <a href="./dynamic_programming/make_one_3.py">make_one_3.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/12865">12865</a> | 평범한 배낭 | <a href="./dynamic_programming/0-1knapsack.py">0-1knapsack.py</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/13301">13301</a> | 타일 장식물 | <a href="./dynamic_programming/tile_object.py">tile_object.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/13699">13699</a> | 점화식 | <a href="./dynamic_programming/recurrence_relation.py">recurrence_relation.py</a> |
@@ -394,7 +394,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/15724">15724</a> | 주지수 | <a href="./dynamic_programming/jujisu.py">jujisu.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/15988">15988</a> | 1, 2, 3 더하기 3 | <a href="./dynamic_programming/one,two,three_add_3.py">one,two,three_add_3.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/15989">15989</a> | 1, 2, 3 더하기 4 | <a href="./dynamic_programming/one,two,three_add_4.py">one,two,three_add_4.py</a> |
-|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/15990">15990</a> | 1, 2, 3 더하기 5 | <a href="./dynamic_programming/one,two,three_add_5.py">one,two,three_add_5.py</a> |
+|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/15990">15990</a> | 1, 2, 3 더하기 5 | <a href="./dynamic_programming/one,two,three_add_5.py">one,two,three_add_5.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/15991">15991</a> | 1, 2, 3 더하기 6 | <a href="./dynamic_programming/one,two,three_add_6.py">one,two,three_add_6.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/15992">15992</a> | 1, 2, 3 더하기 7 | <a href="./dynamic_programming/one,two,three_add_7.py">one,two,three_add_7.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/15993">15993</a> | 1, 2, 3 더하기 8 | <a href="./dynamic_programming/one,two,three_add_8.py">one,two,three_add_8.py</a> |
@@ -455,10 +455,10 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/10451">10451</a> | 순열 사이클 | <a href="./graph/permutation_cycle.py">permutation_cycle.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/11725">11725</a> | 트리의 부모 찾기 | <a href="./graph/tree_parent.py">tree_parent.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/13418">13418</a> | 학교 탐방하기 | <a href="./graph/school_explore.py">school_explore.py</a> |
-|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/13905">13905</a> | 세부 | <a href="./graph/cebu.py">cebu.py</a> |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/13905">13905</a> | 세부 | <a href="./graph/cebu.py">cebu.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14567">14567</a> | 선수과목 (Prerequisite) | <a href="./graph/prerequisite.py">prerequisite.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/14621">14621</a> | 나만 안되는 연애 | <a href="./graph/meeting_application.py">meeting_application.py</a> |
-|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/14676">14676</a> | 영우는 사기꾼? | <a href="./graph/is_liar.py">is_liar.py</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/14676">14676</a> | 영우는 사기꾼? | <a href="./graph/is_liar.py">is_liar.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/14950">14950</a> | 정복자 | <a href="./graph/conqueror.py">conqueror.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/16202">16202</a> | MST 게임 | <a href="./graph/mst_game.py">mst_game.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/16398">16398</a> | 행성 연결 | <a href="./graph/planet_connection.py">planet_connection.py</a> |
@@ -501,7 +501,7 @@
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/9237">9237</a> | 이장님 초대 | <a href="./greedy/invite_head.py">invite_head.py</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/10162">10162</a> | 전자레인지 | <a href="./greedy/microwave.py">microwave.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/10610">10610</a> | 30 | <a href="./greedy/30.py">30.py</a> |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/11000">11000</a> | 강의실 배정 | <a href="./greedy/classroom_assignment.py">classroom_assignment.py</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/11000">11000</a> | 강의실 배정 | <a href="./greedy/classroom_assignment.py">classroom_assignment.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/11497">11497</a> | 통나무 건너뛰기 | <a href="./greedy/cross_the_log.py">cross_the_log.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/11508">11508</a> | 2+1 세일 | <a href="./greedy/two_plus_one_sale.py">two_plus_one_sale.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/13305">13305</a> | 주유소 | <a href="./greedy/gas_station.py">gas_station.py</a> |
@@ -534,7 +534,7 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/1966">1966</a> | 프린터 큐 | <a href="./implementation/printer_queue.py">printer_queue.py</a> |
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/1977">1977</a> | 완전제곱수 | <a href="./implementation/perfect_square_num.py">perfect_square_num.py</a> |
 |    <img src="https://static.solved.ac/tier_small/0.svg" width="20"></img>    | <a href="http://boj.kr/2174">2174</a> | 로봇 시뮬레이션 | <a href="./implementation/robot_simulation.py">robot_simulation.py</a> |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2344">2344</a> | 거울 | <a href="./implementation/mirror.py">mirror.py</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2344">2344</a> | 거울 | <a href="./implementation/mirror.py">mirror.py</a> |
 |    <img src="https://static.solved.ac/tier_small/1.svg" width="20"></img>    | <a href="http://boj.kr/2438">2438</a> | 별 찍기 - 1 | <a href="./implementation/star_1.py">star_1.py</a> |
 |    <img src="https://static.solved.ac/tier_small/2.svg" width="20"></img>    | <a href="http://boj.kr/2439">2439</a> | 별 찍기 - 2 | <a href="./implementation/star_2.py">star_2.py</a> |
 |    <img src="https://static.solved.ac/tier_small/2.svg" width="20"></img>    | <a href="http://boj.kr/2440">2440</a> | 별 찍기 - 3 | <a href="./implementation/star_3.py">star_3.py</a> |
@@ -549,10 +549,10 @@
 |    <img src="https://static.solved.ac/tier_small/0.svg" width="20"></img>    | <a href="http://boj.kr/2556">2556</a> | 별 찍기 - 14 | <a href="./implementation/star_14.py">star_14.py</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/2563">2563</a> | 색종이 | <a href="./implementation/confetti.py">confetti.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/2578">2578</a> | 빙고 | <a href="./implementation/bingo.py">bingo.py</a> |
-|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/2615">2615</a> | 오목 | <a href="./implementation/omok.py">omok.py</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2615">2615</a> | 오목 | <a href="./implementation/omok.py">omok.py</a> |
 |    <img src="https://static.solved.ac/tier_small/5.svg" width="20"></img>    | <a href="http://boj.kr/2729">2729</a> | 이진수 덧셈 | <a href="./implementation/binary_add.py">binary_add.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2877">2877</a> | 4와 7 | <a href="./implementation/4_and_7.py">4_and_7.py</a> |
-|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2931">2931</a> | 가스관 | <a href="./implementation/gas_pipeline.py">gas_pipeline.py</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/2931">2931</a> | 가스관 | <a href="./implementation/gas_pipeline.py">gas_pipeline.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/2980">2980</a> | 도로와 신호등 | <a href="./implementation/road_and_traffic_light.py">road_and_traffic_light.py</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/3009">3009</a> | 네 번째 점 | <a href="./implementation/fourth_point.py">fourth_point.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/3048">3048</a> | 개미 | <a href="./implementation/ant.py">ant.py</a> |
@@ -585,17 +585,18 @@
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/14920">14920</a> | 3n+1 수열 | <a href="./implementation/3n_plus_1_sequence.py">3n_plus_1_sequence.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/15787">15787</a> | 기차가 어둠을 헤치고 은하수를 | <a href="./implementation/train_is_driving_through_darkness_and_milky_way.py">train_is_driving_through_darkness_and_milky_way.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/16113">16113</a> | 시그널 | <a href="./implementation/signal_.py">signal_.py</a> |
-|    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/16506">16506</a> | CPU | <a href="./implementation/CPU.py">CPU.py</a> |
+|    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/16506">16506</a> | CPU | <a href="./implementation/CPU.py">CPU.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16509">16509</a> | 장군 | <a href="./implementation/general.py">general.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16719">16719</a> | ZOAC | <a href="./implementation/zoac.py">zoac.py</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/16918">16918</a> | 봄버맨 | <a href="./implementation/bomberman.py">bomberman.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16926">16926</a> | 배열 돌리기 1 | <a href="./implementation/turn_the_array_1.py">turn_the_array_1.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16927">16927</a> | 배열 돌리기 2 | <a href="./implementation/turn_the_array_2.py">turn_the_array_2.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16935">16935</a> | 배열 돌리기 3 | <a href="./implementation/turn_the_array_3.py">turn_the_array_3.py</a> |
+|    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/17081">17081</a> | RPG Extreme | <a href="./implementation/rpg_extreme.py">rpg_extreme.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/17128">17128</a> | 소가 정보섬에 올라온 이유 | <a href="./implementation/reason_cow_come_to_information_island.py">reason_cow_come_to_information_island.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/17135">17135</a> | 캐슬 디펜스 | <a href="./implementation/castle_defense.py">castle_defense.py</a> |
 |    <img src="https://static.solved.ac/tier_small/5.svg" width="20"></img>    | <a href="http://boj.kr/17202">17202</a> | 핸드폰 번호 궁합 | <a href="./implementation/phone_number_compatibility.py">phone_number_compatibility.py</a> |
-|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/17276">17276</a> | 배열 돌리기 | <a href="./implementation/turn_the_array.py">turn_the_array.py</a> |
+|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/17276">17276</a> | 배열 돌리기 | <a href="./implementation/turn_the_array.py">turn_the_array.py</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/17413">17413</a> | 단어 뒤집기 2 | <a href="./implementation/word_flip_over_2.py">word_flip_over_2.py</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/17478">17478</a> | 재귀함수가 뭔가요? | <a href="./implementation/what_is_recursion_function.py">what_is_recursion_function.py</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/18311">18311</a> | 왕복 | <a href="./implementation/round_trip.py">round_trip.py</a> |
@@ -732,20 +733,20 @@
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/17143">17143</a> | 낚시왕 | <a href="./samsung/king_of_fishing.py">king_of_fishing.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/17144">17144</a> | 미세먼지 안녕! | <a href="./samsung/goodbye_dust.py">goodbye_dust.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/17406">17406</a> | 배열 돌리기 4 | <a href="./samsung/turn_the_array_4.py">turn_the_array_4.py</a> |
-|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/17779">17779</a> | 게리맨더링 2 | <a href="./samsung/gerrymandering2.py">gerrymandering2.py</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/17779">17779</a> | 게리맨더링 2 | <a href="./samsung/gerrymandering2.py">gerrymandering2.py</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/17780">17780</a> | 새로운 게임 | <a href="./samsung/new_game.py">new_game.py</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/17822">17822</a> | 원판 돌리기 | <a href="./samsung/turn_the_disc.py">turn_the_disc.py</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/17825">17825</a> | 주사위 윷놀이 | <a href="./samsung/dice_yut_game.py">dice_yut_game.py</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/17837">17837</a> | 새로운 게임 2 | <a href="./samsung/new_game_2.py">new_game_2.py</a> |
-|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/19236">19236</a> | 청소년 상어 | <a href="./samsung/youth_shark.py">youth_shark.py</a> |
-|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/19237">19237</a> | 어른 상어 | <a href="./samsung/adult_shark.py">adult_shark.py</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/19236">19236</a> | 청소년 상어 | <a href="./samsung/youth_shark.py">youth_shark.py</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/19237">19237</a> | 어른 상어 | <a href="./samsung/adult_shark.py">adult_shark.py</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/19238">19238</a> | 스타트 택시 | <a href="./samsung/start_taxi.py">start_taxi.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/20055">20055</a> | 컨베이어 벨트 위의 로봇 | <a href="./samsung/robot_on_conveyor_belt.py">robot_on_conveyor_belt.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/20056">20056</a> | 마법사 상어와 파이어볼 | <a href="./samsung/wizard_shark_and_fireball.py">wizard_shark_and_fireball.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/20057">20057</a> | 마법사 상어와 토네이도 | <a href="./samsung/wizard_shark_and_tornado.py">wizard_shark_and_tornado.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/20058">20058</a> | 마법사 상어와 파이어스톰 | <a href="./samsung/wizard_shark_and_firestorm.py">wizard_shark_and_firestorm.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/21608">21608</a> | 상어 초등학교 | <a href="./samsung/shark_elementary_school.py">shark_elementary_school.py</a> |
-|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/21609">21609</a> | 상어 중학교 | <a href="./samsung/shark_middle_school.py">shark_middle_school.py</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/21609">21609</a> | 상어 중학교 | <a href="./samsung/shark_middle_school.py">shark_middle_school.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/21610">21610</a> | 마법사 상어와 비바라기 | <a href="./samsung/wizard_shark_and_rainrain.py">wizard_shark_and_rainrain.py</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/21611">21611</a> | 마법사 상어와 블리자드 | <a href="./samsung/wizard_shark_and_blizzard.py">wizard_shark_and_blizzard.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/23288">23288</a> | 주사위 굴리기 2 | <a href="./samsung/dice_roll_2.py">dice_roll_2.py</a> |
@@ -819,7 +820,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/10159">10159</a> | 저울 | <a href="./shortest_path/scale.py">scale.py</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/10217">10217</a> | KCM Travel | <a href="./shortest_path/kcm_travel.py">kcm_travel.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/10282">10282</a> | 해킹 | <a href="./shortest_path/hacking.py">hacking.py</a> |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/11265">11265</a> | 끝나지 않는 파티 | <a href="./shortest_path/never_ending_party.py">never_ending_party.py</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/11265">11265</a> | 끝나지 않는 파티 | <a href="./shortest_path/never_ending_party.py">never_ending_party.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/11404">11404</a> | 플로이드 | <a href="./shortest_path/floyd.py">floyd.py</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/11562">11562</a> | 백양로 브레이크 | <a href="./shortest_path/baekyangro_brake.py">baekyangro_brake.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/11657">11657</a> | 타임머신 | <a href="./shortest_path/time_machine_spfa.py">time_machine_spfa.py</a> |
@@ -848,8 +849,8 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/1431">1431</a> | 시리얼 번호 | <a href="./sorting/serial_number.py">serial_number.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1715">1715</a> | 카드 정렬하기 | <a href="./sorting/card_sorting_another.py">card_sorting_another.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1715">1715</a> | 카드 정렬하기 | <a href="./sorting/card_sorting_another.py">card_sorting_another.py</a> |
-|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/2075">2075</a> | N번째 큰 수 | <a href="./sorting/nth_largest_number.py">nth_largest_number.py</a> |
-|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/2108">2108</a> | 통계학 | <a href="./sorting/statistics.py">statistics.py</a> |
+|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/2075">2075</a> | N번째 큰 수 | <a href="./sorting/nth_largest_number.py">nth_largest_number.py</a> |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/2108">2108</a> | 통계학 | <a href="./sorting/statistics.py">statistics.py</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/2822">2822</a> | 점수 계산 | <a href="./sorting/calculate_score.py">calculate_score.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/10825">10825</a> | 국영수 | <a href="./sorting/korean_english_math.py">korean_english_math.py</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/10867">10867</a> | 중복 빼고 정렬하기 | <a href="./sorting/sorting_without_duplication.py">sorting_without_duplication.py</a> |
@@ -874,12 +875,12 @@
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/1251">1251</a> | 단어 나누기 | <a href="./string/divide_word.py">divide_word.py</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1254">1254</a> | 팰린드롬 만들기 | <a href="./string/make_palindrome_2.py">make_palindrome_2.py</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/1305">1305</a> | 광고 | <a href="./string/advertisement.py">advertisement.py</a> |
-|    <img src="https://static.solved.ac/tier_small/5.svg" width="20"></img>    | <a href="http://boj.kr/1357">1357</a> | 뒤집힌 덧셈 | <a href="./string/reverse_add.py">reverse_add.py</a> |
+|    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/1357">1357</a> | 뒤집힌 덧셈 | <a href="./string/reverse_add.py">reverse_add.py</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/1498">1498</a> | 주기문 | <a href="./string/periodic_statement.py">periodic_statement.py</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/1605">1605</a> | 반복 부분문자열 | <a href="./string/repeat_substring.py">repeat_substring.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/1622">1622</a> | 공통 순열 | <a href="./string/common_permutation.py">common_permutation.py</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/1652">1652</a> | 누울 자리를 찾아라 | <a href="./string/find_place_to_lie_down.py">find_place_to_lie_down.py</a> |
-|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1701">1701</a> | Cubeditor | <a href="./string/cubeditor.py">cubeditor.py</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/1701">1701</a> | Cubeditor | <a href="./string/cubeditor.py">cubeditor.py</a> |
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/1718">1718</a> | 암호 | <a href="./string/cipher.py">cipher.py</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/1755">1755</a> | 숫자놀이 | <a href="./string/number_game.py">number_game.py</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/1769">1769</a> | 3의 배수 | <a href="./string/three_multiple.py">three_multiple.py</a> |
@@ -1025,6 +1026,6 @@
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/10775">10775</a> | 공항 | <a href="./union_find/airplane.py">airplane.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/16562">16562</a> | 친구비 | <a href="./union_find/friend_price.py">friend_price.py</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/17352">17352</a> | 여러분의 다리가 되어 드리겠습니다! | <a href="./union_find/bridge.py">bridge.py</a> |
-|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/17490">17490</a> | 일감호에 다리 놓기 | <a href="./union_find/bridge_on_ilgamho.py">bridge_on_ilgamho.py</a> |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/17490">17490</a> | 일감호에 다리 놓기 | <a href="./union_find/bridge_on_ilgamho.py">bridge_on_ilgamho.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/18116">18116</a> | 로봇 조립 | <a href="./union_find/robot_assembly.py">robot_assembly.py</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/20040">20040</a> | 사이클 게임 | <a href="./union_find/cycle_game.py">cycle_game.py</a> |
